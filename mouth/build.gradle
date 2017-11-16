@@ -17,14 +17,29 @@ apply plugin: 'kotlin'
 repositories {
     mavenCentral()
     jcenter()
+    maven { url "http://www.dcm4che.org/maven2/"}
 }
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre8:$kotlin_version"
-    compile "com.googlecode.mp4parser:isoparser:1.1.21"
+
+    //xunfei
     compile files("libs/Msc.jar")
     compile files("libs/json-jena-1.0.jar")
     compile files("libs/lfasr-sdk-client-2.0.0.1005-jar-with-dependencies.jar")
+
+    //json
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.9.2'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.2'
+    compile group: 'com.fasterxml.jackson.module', name: 'jackson-module-kotlin', version: '2.9.2'
+    compile group: 'com.jayway.jsonpath', name: 'json-path', version: '2.3.0'
+
+    //database
+    compile group: 'mysql', name: 'mysql-connector-java', version:'5.1.29'
+    compile group: 'com.mchange', name: 'c3p0', version: '0.9.5'
+
+    //log
+    compile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.6'
 
     testCompile  'junit:junit:4.11'
     testCompile "org.jetbrains.kotlin:kotlin-test-junit:$kotlin_version"

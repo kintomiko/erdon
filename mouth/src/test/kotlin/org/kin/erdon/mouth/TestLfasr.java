@@ -13,7 +13,7 @@ import com.iflytek.msp.cpdb.lfasr.model.ProgressStatus;
 
 public class TestLfasr 
 {
-	private static final String local_file = "/Users/kindai/workspace/erdon/mouth/speech/sample.m4a";
+	private static final String local_file = "/Users/kindai/workspace/erdon/mouth/speech/Rec_003.wav";
 	private static final LfasrType type = LfasrType.LFASR_STANDARD_RECORDED_AUDIO;
 	private static int sleepSecond = 20;
 	
