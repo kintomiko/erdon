@@ -2,21 +2,6 @@ package org.kin.erdon.mouth
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 
-object VoiceSplitter{
-
-    fun splitVoice(wavReader: WavReader, cuts: List<Cut>) : Collection<Fragment> {
-        return cuts.map {
-            Fragment(
-                    it.wordsName,
-                    wavReader.loadWord(it.wordBg, it.wordEd),
-                    it.wc,
-                    it.wp,
-                    wavReader.format.toString())
-        }
-    }
-
-}
-
 @JsonIgnoreProperties(ignoreUnknown = true)
 data class CutGroup(
         val bg: Long,
@@ -33,10 +18,35 @@ data class Cut(
         val wp: String
 )
 
+data class Word(
+    val id: Int?,
+    val name: String,
+    val pronunciation: String
+)
+
 data class Fragment(
-        val wordsName: String,
+        val id: Int?,
+        val clipId: Int,
+        val personId: Int,
+        val wordId: Int,
         val audio: ByteArray,
         val wc: Float,
-        val wp: String,
-        val format: String
+        val wp: String
+)
+
+data class Person(
+        val id: Int?,
+        val name: String,
+        val sex: Sex
+)
+
+enum class Sex{
+    MALE, FEMALE
+}
+
+data class Clip(
+        val id: Int?,
+        val format: String,
+        val name: String,
+        val audio: ByteArray?
 )

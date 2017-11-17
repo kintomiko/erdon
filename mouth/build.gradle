@@ -18,6 +18,7 @@ repositories {
     mavenCentral()
     jcenter()
     maven { url "http://www.dcm4che.org/maven2/"}
+    maven { url "https://jitpack.io" }
 }
 
 dependencies {
@@ -27,6 +28,9 @@ dependencies {
     compile files("libs/Msc.jar")
     compile files("libs/json-jena-1.0.jar")
     compile files("libs/lfasr-sdk-client-2.0.0.1005-jar-with-dependencies.jar")
+
+    //pinyin
+    compile 'com.github.SilenceDut:jpinyin:v1.0'
 
     //json
     compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.9.2'
@@ -40,6 +44,9 @@ dependencies {
 
     //log
     compile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.6'
+
+    //http
+    compile 'com.github.kittinunf.fuel:fuel:1.12.0'
 
     testCompile  'junit:junit:4.11'
     testCompile "org.jetbrains.kotlin:kotlin-test-junit:$kotlin_version"

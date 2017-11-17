@@ -29,9 +29,6 @@ object Config {
     init {
         log("Config file location: ${file}")
         props = if (file != null) readProperties(file) else Properties()
-
-        log("Configuring Consul")
-        log("Connecting Client to Consul")
     }
 
     private fun configLocation():String? {

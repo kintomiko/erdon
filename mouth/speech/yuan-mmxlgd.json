@@ -1,0 +1,4720 @@
+{
+  "result": [
+    {
+      "bg": "1570",
+      "ed": "2670",
+      "nc": "1.0",
+      "onebest": "我去洗了，",
+      "si": "0",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "18",
+          "wordEd": "34",
+          "wordsName": "我",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "34",
+          "wordEd": "46",
+          "wordsName": "去",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7773",
+          "wordBg": "46",
+          "wordEd": "62",
+          "wordsName": "洗",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9924",
+          "wordBg": "62",
+          "wordEd": "90",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "90",
+          "wordEd": "90",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "2690",
+      "ed": "5710",
+      "nc": "1.0",
+      "onebest": "我妈妈下了一个蛋",
+      "si": "1",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "3",
+          "wordEd": "91",
+          "wordsName": "我",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "91",
+          "wordEd": "172",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "172",
+          "wordEd": "198",
+          "wordsName": "下",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "198",
+          "wordEd": "212",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "212",
+          "wordEd": "232",
+          "wordsName": "一个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9981",
+          "wordBg": "232",
+          "wordEd": "276",
+          "wordsName": "蛋",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "9660",
+      "ed": "12640",
+      "nc": "1.0",
+      "onebest": "去小丽家过夜，",
+      "si": "2",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "13",
+          "wordEd": "58",
+          "wordsName": "去",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8702",
+          "wordBg": "58",
+          "wordEd": "90",
+          "wordsName": "小",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8693",
+          "wordBg": "90",
+          "wordEd": "122",
+          "wordsName": "丽",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "122",
+          "wordEd": "158",
+          "wordsName": "家",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "158",
+          "wordEd": "280",
+          "wordsName": "过夜",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "280",
+          "wordEd": "280",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "15750",
+      "ed": "18120",
+      "nc": "1.0",
+      "onebest": "小伙当医生",
+      "si": "3",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9992",
+          "wordBg": "15",
+          "wordEd": "104",
+          "wordsName": "小伙",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "104",
+          "wordEd": "142",
+          "wordsName": "当",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "142",
+          "wordEd": "216",
+          "wordsName": "医生",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "18910",
+      "ed": "20800",
+      "nc": "1.0",
+      "onebest": "怎么样，这几个",
+      "si": "4",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "17",
+          "wordEd": "88",
+          "wordsName": "怎么样",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "88",
+          "wordEd": "88",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "88",
+          "wordEd": "118",
+          "wordsName": "这",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "118",
+          "wordEd": "132",
+          "wordsName": "几",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "132",
+          "wordEd": "166",
+          "wordsName": "个",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "21970",
+      "ed": "25730",
+      "nc": "1.0",
+      "onebest": "好，我们先讲妈妈下了一个蛋，",
+      "si": "5",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.8594",
+          "wordBg": "7",
+          "wordEd": "99",
+          "wordsName": "好",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "99",
+          "wordEd": "99",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "99",
+          "wordEd": "132",
+          "wordsName": "我们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "132",
+          "wordEd": "156",
+          "wordsName": "先",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "156",
+          "wordEd": "191",
+          "wordsName": "讲",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "191",
+          "wordEd": "242",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9992",
+          "wordBg": "242",
+          "wordEd": "266",
+          "wordsName": "下",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "266",
+          "wordEd": "280",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "280",
+          "wordEd": "300",
+          "wordsName": "一个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9981",
+          "wordBg": "300",
+          "wordEd": "348",
+          "wordsName": "蛋",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "348",
+          "wordEd": "348",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "26230",
+      "ed": "28200",
+      "nc": "1.0",
+      "onebest": "其实妈妈就是一个蛋，",
+      "si": "6",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "17",
+          "wordEd": "56",
+          "wordsName": "其实",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "56",
+          "wordEd": "86",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "86",
+          "wordEd": "118",
+          "wordsName": "就是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "118",
+          "wordEd": "136",
+          "wordsName": "一个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9382",
+          "wordBg": "136",
+          "wordEd": "178",
+          "wordsName": "蛋",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "178",
+          "wordEd": "178",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "29210",
+      "ed": "31520",
+      "nc": "1.0",
+      "onebest": "这个这个书太超前了，",
+      "si": "7",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "15",
+          "wordEd": "62",
+          "wordsName": "这个",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "62",
+          "wordEd": "88",
+          "wordsName": "这个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9995",
+          "wordBg": "88",
+          "wordEd": "108",
+          "wordsName": "书",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "108",
+          "wordEd": "136",
+          "wordsName": "太",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "136",
+          "wordEd": "182",
+          "wordsName": "超前",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "182",
+          "wordEd": "212",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "212",
+          "wordEd": "212",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "34390",
+      "ed": "37280",
+      "nc": "1.0",
+      "onebest": "来，爸爸妈妈说",
+      "si": "8",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "17",
+          "wordEd": "151",
+          "wordsName": "来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "151",
+          "wordEd": "151",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "151",
+          "wordEd": "186",
+          "wordsName": "爸爸",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "186",
+          "wordEd": "222",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "222",
+          "wordEd": "270",
+          "wordsName": "说",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "37300",
+      "ed": "39300",
+      "nc": "1.0",
+      "onebest": "是时候告诉你们",
+      "si": "9",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "3",
+          "wordEd": "40",
+          "wordsName": "是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "40",
+          "wordEd": "74",
+          "wordsName": "时候",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "74",
+          "wordEd": "118",
+          "wordsName": "告诉",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "118",
+          "wordEd": "180",
+          "wordsName": "你们",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "39310",
+      "ed": "42070",
+      "nc": "1.0",
+      "onebest": "宝宝是怎么来的，",
+      "si": "10",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "13",
+          "wordEd": "120",
+          "wordsName": "宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "120",
+          "wordEd": "158",
+          "wordsName": "是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "158",
+          "wordEd": "186",
+          "wordsName": "怎么",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "186",
+          "wordEd": "216",
+          "wordsName": "来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "216",
+          "wordEd": "244",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "244",
+          "wordEd": "244",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "43140",
+      "ed": "45130",
+      "nc": "1.0",
+      "onebest": "好，啊我们说",
+      "si": "11",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "3",
+          "wordEd": "62",
+          "wordsName": "好",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "62",
+          "wordEd": "62",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "62",
+          "wordEd": "97",
+          "wordsName": "啊",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "97",
+          "wordEd": "130",
+          "wordsName": "我们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "130",
+          "wordEd": "174",
+          "wordsName": "说",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "45180",
+      "ed": "48070",
+      "nc": "1.0",
+      "onebest": "女孩是用糖和香料，",
+      "si": "12",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "23",
+          "wordEd": "84",
+          "wordsName": "女孩",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "84",
+          "wordEd": "102",
+          "wordsName": "是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "102",
+          "wordEd": "126",
+          "wordsName": "用",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "126",
+          "wordEd": "172",
+          "wordsName": "糖",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "172",
+          "wordEd": "190",
+          "wordsName": "和",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "190",
+          "wordEd": "268",
+          "wordsName": "香料",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "268",
+          "wordEd": "268",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "48080",
+      "ed": "51980",
+      "nc": "1.0",
+      "onebest": "还有其他美好的东西一起做出来的。妈妈说",
+      "si": "13",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "11",
+          "wordEd": "54",
+          "wordsName": "还有",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9975",
+          "wordBg": "54",
+          "wordEd": "94",
+          "wordsName": "其他",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "134",
+          "wordsName": "美好",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "134",
+          "wordEd": "144",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "144",
+          "wordEd": "184",
+          "wordsName": "东西",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "184",
+          "wordEd": "212",
+          "wordsName": "一起",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "212",
+          "wordEd": "236",
+          "wordsName": "做",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "236",
+          "wordEd": "270",
+          "wordsName": "出来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "270",
+          "wordEd": "288",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "288",
+          "wordEd": "288",
+          "wordsName": "。",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "288",
+          "wordEd": "322",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "322",
+          "wordEd": "364",
+          "wordsName": "说",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "53790",
+      "ed": "59070",
+      "nc": "1.0",
+      "onebest": "南海适用鼻涕虫涡流和小狗的尾巴一起做出来的，",
+      "si": "14",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "26",
+          "wordEd": "74",
+          "wordsName": "南海",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9740",
+          "wordBg": "74",
+          "wordEd": "106",
+          "wordsName": "适用",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9782",
+          "wordBg": "106",
+          "wordEd": "183",
+          "wordsName": "鼻涕虫",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9975",
+          "wordBg": "183",
+          "wordEd": "234",
+          "wordsName": "涡流",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "234",
+          "wordEd": "244",
+          "wordsName": "和",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "244",
+          "wordEd": "304",
+          "wordsName": "小狗",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "304",
+          "wordEd": "316",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "316",
+          "wordEd": "380",
+          "wordsName": "尾巴",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "380",
+          "wordEd": "418",
+          "wordsName": "一起",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "418",
+          "wordEd": "444",
+          "wordsName": "做",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "444",
+          "wordEd": "482",
+          "wordsName": "出来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "482",
+          "wordEd": "498",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "498",
+          "wordEd": "498",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "60330",
+      "ed": "63280",
+      "nc": "1.0",
+      "onebest": "有的宝宝可能是快递过来的，",
+      "si": "15",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "23",
+          "wordEd": "66",
+          "wordsName": "有的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "66",
+          "wordEd": "108",
+          "wordsName": "宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "108",
+          "wordEd": "144",
+          "wordsName": "可能",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "144",
+          "wordEd": "160",
+          "wordsName": "是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "160",
+          "wordEd": "208",
+          "wordsName": "快递",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "208",
+          "wordEd": "246",
+          "wordsName": "过来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "246",
+          "wordEd": "270",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "270",
+          "wordEd": "270",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "64480",
+      "ed": "66340",
+      "nc": "1.0",
+      "onebest": "还可以用姜饼做出。",
+      "si": "16",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "13",
+          "wordEd": "44",
+          "wordsName": "还",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "44",
+          "wordEd": "66",
+          "wordsName": "可以",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "66",
+          "wordEd": "88",
+          "wordsName": "用",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "88",
+          "wordEd": "152",
+          "wordsName": "姜饼",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8257",
+          "wordBg": "152",
+          "wordEd": "186",
+          "wordsName": "做出",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "186",
+          "wordEd": "186",
+          "wordsName": "。",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "186",
+          "wordEd": "186",
+          "wordsName": "",
+          "wp": "g"
+        }
+      ]
+    },
+    {
+      "bg": "66340",
+      "ed": "68000",
+      "nc": "1.0",
+      "onebest": "宝宝妈妈说",
+      "si": "17",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "0",
+          "wordEd": "69",
+          "wordsName": "宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "69",
+          "wordEd": "104",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "104",
+          "wordEd": "138",
+          "wordsName": "说",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "68370",
+      "ed": "72750",
+      "nc": "1.0",
+      "onebest": "有时候在石头底下也能发现宝宝，爸爸做",
+      "si": "18",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "23",
+          "wordEd": "90",
+          "wordsName": "有时候",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "90",
+          "wordEd": "112",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "112",
+          "wordEd": "152",
+          "wordsName": "石头",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "152",
+          "wordEd": "196",
+          "wordsName": "底下",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "196",
+          "wordEd": "224",
+          "wordsName": "也",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "224",
+          "wordEd": "242",
+          "wordsName": "能",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "242",
+          "wordEd": "282",
+          "wordsName": "发现",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "282",
+          "wordEd": "351",
+          "wordsName": "宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "351",
+          "wordEd": "351",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "351",
+          "wordEd": "390",
+          "wordsName": "爸爸",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9404",
+          "wordBg": "390",
+          "wordEd": "424",
+          "wordsName": "做",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "73020",
+      "ed": "74540",
+      "nc": "1.0",
+      "onebest": "老婆在哪里，",
+      "si": "19",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9348",
+          "wordBg": "7",
+          "wordEd": "72",
+          "wordsName": "老婆",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9888",
+          "wordBg": "72",
+          "wordEd": "88",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9858",
+          "wordBg": "88",
+          "wordEd": "140",
+          "wordsName": "哪里",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "140",
+          "wordEd": "140",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "74550",
+      "ed": "75540",
+      "nc": "1.0",
+      "onebest": "这里，",
+      "si": "20",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "18",
+          "wordEd": "84",
+          "wordsName": "这里",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "84",
+          "wordEd": "84",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "76080",
+      "ed": "80270",
+      "nc": "1.0",
+      "onebest": "你看12345个宝宝在石头下面，",
+      "si": "21",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "15",
+          "wordEd": "32",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "32",
+          "wordEd": "88",
+          "wordsName": "看",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "88",
+          "wordEd": "218",
+          "wordsName": "12345",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "218",
+          "wordEd": "248",
+          "wordsName": "个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "248",
+          "wordEd": "298",
+          "wordsName": "宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "298",
+          "wordEd": "314",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "314",
+          "wordEd": "358",
+          "wordsName": "石头",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "358",
+          "wordEd": "398",
+          "wordsName": "下面",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "398",
+          "wordEd": "398",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "80790",
+      "ed": "83170",
+      "nc": "1.0",
+      "onebest": "你看江丙也可以做出抱抱，",
+      "si": "22",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "28",
+          "wordEd": "40",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "40",
+          "wordEd": "52",
+          "wordsName": "看",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.5037",
+          "wordBg": "52",
+          "wordEd": "80",
+          "wordsName": "江",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7023",
+          "wordBg": "80",
+          "wordEd": "99",
+          "wordsName": "丙",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "99",
+          "wordEd": "110",
+          "wordsName": "也",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "110",
+          "wordEd": "128",
+          "wordsName": "可以",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9518",
+          "wordBg": "128",
+          "wordEd": "160",
+          "wordsName": "做出",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9343",
+          "wordBg": "160",
+          "wordEd": "224",
+          "wordsName": "抱抱",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "224",
+          "wordEd": "224",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "84890",
+      "ed": "87740",
+      "nc": "1.0",
+      "onebest": "也可以把宝宝的种子",
+      "si": "23",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "23",
+          "wordEd": "50",
+          "wordsName": "也",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "50",
+          "wordEd": "78",
+          "wordsName": "可以",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "78",
+          "wordEd": "96",
+          "wordsName": "把",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "96",
+          "wordEd": "168",
+          "wordsName": "宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "168",
+          "wordEd": "178",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "178",
+          "wordEd": "268",
+          "wordsName": "种子",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "87750",
+      "ed": "90240",
+      "nc": "1.0",
+      "onebest": "种在温室的花棚里面，",
+      "si": "24",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9404",
+          "wordBg": "11",
+          "wordEd": "44",
+          "wordsName": "种",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "44",
+          "wordEd": "68",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "110",
+          "wordsName": "温室",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "110",
+          "wordEd": "122",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "122",
+          "wordEd": "146",
+          "wordsName": "花",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "146",
+          "wordEd": "182",
+          "wordsName": "棚",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "182",
+          "wordEd": "228",
+          "wordsName": "里面",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "228",
+          "wordEd": "228",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "90250",
+      "ed": "93100",
+      "nc": "1.0",
+      "onebest": "然后长出来一个宝宝屁股，你看",
+      "si": "25",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9994",
+          "wordBg": "13",
+          "wordEd": "38",
+          "wordsName": "然后",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9145",
+          "wordBg": "38",
+          "wordEd": "72",
+          "wordsName": "长",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9151",
+          "wordBg": "72",
+          "wordEd": "106",
+          "wordsName": "出来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "106",
+          "wordEd": "128",
+          "wordsName": "一个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "128",
+          "wordEd": "172",
+          "wordsName": "宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "172",
+          "wordEd": "236",
+          "wordsName": "屁股",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "236",
+          "wordEd": "236",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "236",
+          "wordEd": "246",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "246",
+          "wordEd": "270",
+          "wordsName": "看",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "93110",
+      "ed": "94500",
+      "nc": "1.0",
+      "onebest": "屁股先出来，",
+      "si": "26",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "19",
+          "wordEd": "62",
+          "wordsName": "屁股",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "62",
+          "wordEd": "80",
+          "wordsName": "先",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "80",
+          "wordEd": "120",
+          "wordsName": "出来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "120",
+          "wordEd": "120",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "94820",
+      "ed": "96860",
+      "nc": "1.0",
+      "onebest": "怎么都是屁股先出来，啊",
+      "si": "27",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "23",
+          "wordEd": "48",
+          "wordsName": "怎么",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "48",
+          "wordEd": "70",
+          "wordsName": "都是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9850",
+          "wordBg": "70",
+          "wordEd": "109",
+          "wordsName": "屁股",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9531",
+          "wordBg": "109",
+          "wordEd": "125",
+          "wordsName": "先",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "125",
+          "wordEd": "154",
+          "wordsName": "出来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "154",
+          "wordEd": "154",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9993",
+          "wordBg": "154",
+          "wordEd": "180",
+          "wordsName": "啊",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "98190",
+      "ed": "99630",
+      "nc": "1.0",
+      "onebest": "种子宝宝",
+      "si": "28",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "15",
+          "wordEd": "72",
+          "wordsName": "种子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "72",
+          "wordEd": "118",
+          "wordsName": "宝宝",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "100380",
+      "ed": "104170",
+      "nc": "1.0",
+      "onebest": "还有牙膏管里面也可以挤出宝宝，",
+      "si": "29",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "17",
+          "wordEd": "80",
+          "wordsName": "还有",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "80",
+          "wordEd": "150",
+          "wordsName": "牙膏",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "150",
+          "wordEd": "184",
+          "wordsName": "管",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "184",
+          "wordEd": "214",
+          "wordsName": "里面",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "214",
+          "wordEd": "234",
+          "wordsName": "也",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "234",
+          "wordEd": "264",
+          "wordsName": "可以",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "264",
+          "wordEd": "298",
+          "wordsName": "挤出",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "298",
+          "wordEd": "352",
+          "wordsName": "宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "352",
+          "wordEd": "352",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "106480",
+      "ed": "110180",
+      "nc": "1.0",
+      "onebest": "妈妈在瞎沙发上面下了一个蛋，",
+      "si": "30",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "21",
+          "wordEd": "76",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9753",
+          "wordBg": "76",
+          "wordEd": "94",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.5477",
+          "wordBg": "94",
+          "wordEd": "137",
+          "wordsName": "瞎",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "137",
+          "wordEd": "194",
+          "wordsName": "沙发",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "194",
+          "wordEd": "248",
+          "wordsName": "上面",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "248",
+          "wordEd": "274",
+          "wordsName": "下",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "274",
+          "wordEd": "288",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "288",
+          "wordEd": "308",
+          "wordsName": "一个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9981",
+          "wordBg": "308",
+          "wordEd": "344",
+          "wordsName": "蛋",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "344",
+          "wordEd": "344",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "110330",
+      "ed": "111510",
+      "nc": "1.0",
+      "onebest": "爸爸说",
+      "si": "31",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "28",
+          "wordEd": "62",
+          "wordsName": "爸爸",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "62",
+          "wordEd": "98",
+          "wordsName": "说",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "111790",
+      "ed": "112870",
+      "nc": "1.0",
+      "onebest": "他",
+      "si": "32",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9112",
+          "wordBg": "3",
+          "wordEd": "86",
+          "wordsName": "他",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "114060",
+      "ed": "115940",
+      "nc": "1.0",
+      "onebest": "沙发上下了一个大",
+      "si": "33",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "9",
+          "wordEd": "62",
+          "wordsName": "沙发",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9975",
+          "wordBg": "62",
+          "wordEd": "88",
+          "wordsName": "上",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9988",
+          "wordBg": "88",
+          "wordEd": "112",
+          "wordsName": "下",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9988",
+          "wordBg": "112",
+          "wordEd": "121",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9977",
+          "wordBg": "121",
+          "wordEd": "136",
+          "wordsName": "一个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8585",
+          "wordBg": "136",
+          "wordEd": "170",
+          "wordsName": "大",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "116880",
+      "ed": "118040",
+      "nc": "1.0",
+      "onebest": "崩",
+      "si": "34",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.8007",
+          "wordBg": "21",
+          "wordEd": "112",
+          "wordsName": "崩",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "118060",
+      "ed": "119290",
+      "nc": "1.0",
+      "onebest": "嗯炸开了，",
+      "si": "35",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9902",
+          "wordBg": "3",
+          "wordEd": "31",
+          "wordsName": "嗯",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "31",
+          "wordEd": "58",
+          "wordsName": "炸",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "58",
+          "wordEd": "94",
+          "wordsName": "开",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "118",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "118",
+          "wordEd": "118",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "119400",
+      "ed": "121280",
+      "nc": "1.0",
+      "onebest": "宝宝就出来了，",
+      "si": "36",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "24",
+          "wordEd": "70",
+          "wordsName": "宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "70",
+          "wordEd": "86",
+          "wordsName": "就",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "86",
+          "wordEd": "146",
+          "wordsName": "出来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "146",
+          "wordEd": "168",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "168",
+          "wordEd": "168",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "121740",
+      "ed": "123900",
+      "nc": "1.0",
+      "onebest": "两个娃娃嘿嘿",
+      "si": "37",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.7098",
+          "wordBg": "17",
+          "wordEd": "62",
+          "wordsName": "两",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7096",
+          "wordBg": "62",
+          "wordEd": "73",
+          "wordsName": "个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7117",
+          "wordBg": "73",
+          "wordEd": "129",
+          "wordsName": "娃娃",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7063",
+          "wordBg": "129",
+          "wordEd": "200",
+          "wordsName": "嘿嘿",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "124100",
+      "ed": "129170",
+      "nc": "1.0",
+      "onebest": "嘿嘿哈哈哈哈哈哈骗人，吧",
+      "si": "38",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "13",
+          "wordEd": "96",
+          "wordsName": "嘿嘿",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "96",
+          "wordEd": "170",
+          "wordsName": "哈哈",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "170",
+          "wordEd": "208",
+          "wordsName": "哈哈",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "208",
+          "wordEd": "340",
+          "wordsName": "哈哈",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "340",
+          "wordEd": "413",
+          "wordsName": "骗人",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "413",
+          "wordEd": "413",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "413",
+          "wordEd": "478",
+          "wordsName": "吧",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "129280",
+      "ed": "131350",
+      "nc": "1.0",
+      "onebest": "我们大声的笑了起来，",
+      "si": "39",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "19",
+          "wordEd": "46",
+          "wordsName": "我们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "46",
+          "wordEd": "84",
+          "wordsName": "大声",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9206",
+          "wordBg": "84",
+          "wordEd": "96",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "96",
+          "wordEd": "126",
+          "wordsName": "笑",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "126",
+          "wordEd": "140",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "140",
+          "wordEd": "186",
+          "wordsName": "起来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "186",
+          "wordEd": "186",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "131390",
+      "ed": "134890",
+      "nc": "1.0",
+      "onebest": "不过你们说的种子牙膏管",
+      "si": "40",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "21",
+          "wordEd": "68",
+          "wordsName": "不过",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "94",
+          "wordsName": "你们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "114",
+          "wordsName": "说",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "114",
+          "wordEd": "128",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "128",
+          "wordEd": "223",
+          "wordsName": "种子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "223",
+          "wordEd": "294",
+          "wordsName": "牙膏",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "294",
+          "wordEd": "342",
+          "wordsName": "管",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "134910",
+      "ed": "137720",
+      "nc": "1.0",
+      "onebest": "和下蛋差不多都醉了，",
+      "si": "41",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "7",
+          "wordEd": "36",
+          "wordsName": "和",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "36",
+          "wordEd": "112",
+          "wordsName": "下蛋",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "112",
+          "wordEd": "182",
+          "wordsName": "差不多",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "182",
+          "wordEd": "198",
+          "wordsName": "都",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7753",
+          "wordBg": "198",
+          "wordEd": "230",
+          "wordsName": "醉",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "230",
+          "wordEd": "254",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "254",
+          "wordEd": "254",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "138630",
+      "ed": "141740",
+      "nc": "1.0",
+      "onebest": "你们根本就不知道宝宝是怎么来的，",
+      "si": "42",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "19",
+          "wordEd": "58",
+          "wordsName": "你们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "58",
+          "wordEd": "94",
+          "wordsName": "根本",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "108",
+          "wordsName": "就",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "108",
+          "wordEd": "120",
+          "wordsName": "不",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "120",
+          "wordEd": "146",
+          "wordsName": "知道",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "146",
+          "wordEd": "191",
+          "wordsName": "宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "191",
+          "wordEd": "202",
+          "wordsName": "是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "202",
+          "wordEd": "228",
+          "wordsName": "怎么",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "228",
+          "wordEd": "256",
+          "wordsName": "来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "256",
+          "wordEd": "283",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "283",
+          "wordEd": "283",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "141950",
+      "ed": "144070",
+      "nc": "1.0",
+      "onebest": "那花给你们看看，吧",
+      "si": "43",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9996",
+          "wordBg": "25",
+          "wordEd": "48",
+          "wordsName": "那",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8022",
+          "wordBg": "48",
+          "wordEd": "82",
+          "wordsName": "花",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9996",
+          "wordBg": "82",
+          "wordEd": "94",
+          "wordsName": "给",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "110",
+          "wordsName": "你们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "110",
+          "wordEd": "160",
+          "wordsName": "看看",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "160",
+          "wordEd": "160",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "160",
+          "wordEd": "187",
+          "wordsName": "吧",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "146080",
+      "ed": "147700",
+      "nc": "1.0",
+      "onebest": "妈妈有，但",
+      "si": "44",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "25",
+          "wordEd": "74",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "74",
+          "wordEd": "103",
+          "wordsName": "有",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "103",
+          "wordEd": "103",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9777",
+          "wordBg": "103",
+          "wordEd": "142",
+          "wordsName": "但",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "147720",
+      "ed": "149980",
+      "nc": "1.0",
+      "onebest": "在她的肚子里面，",
+      "si": "45",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "19",
+          "wordEd": "46",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.4871",
+          "wordBg": "46",
+          "wordEd": "62",
+          "wordsName": "她",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "62",
+          "wordEd": "78",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "78",
+          "wordEd": "136",
+          "wordsName": "肚子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "136",
+          "wordEd": "202",
+          "wordsName": "里面",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "202",
+          "wordEd": "202",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "150390",
+      "ed": "152280",
+      "nc": "1.0",
+      "onebest": "爸爸有种子",
+      "si": "46",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "25",
+          "wordEd": "74",
+          "wordsName": "爸爸",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "74",
+          "wordEd": "90",
+          "wordsName": "有",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "90",
+          "wordEd": "180",
+          "wordsName": "种子",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "152300",
+      "ed": "155170",
+      "nc": "1.0",
+      "onebest": "在他的身体的袋子里面，你看",
+      "si": "47",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "15",
+          "wordEd": "44",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7709",
+          "wordBg": "44",
+          "wordEd": "60",
+          "wordsName": "他",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7156",
+          "wordBg": "60",
+          "wordEd": "68",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "120",
+          "wordsName": "身体",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "120",
+          "wordEd": "136",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "136",
+          "wordEd": "186",
+          "wordsName": "袋子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "186",
+          "wordEd": "223",
+          "wordsName": "里面",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "223",
+          "wordEd": "223",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "223",
+          "wordEd": "236",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "236",
+          "wordEd": "262",
+          "wordsName": "看",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "158770",
+      "ed": "160110",
+      "nc": "1.0",
+      "onebest": "从这里",
+      "si": "48",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "9",
+          "wordEd": "46",
+          "wordsName": "从",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "46",
+          "wordEd": "116",
+          "wordsName": "这里",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "160130",
+      "ed": "161470",
+      "nc": "1.0",
+      "onebest": "伸进去，",
+      "si": "49",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.8518",
+          "wordBg": "10",
+          "wordEd": "46",
+          "wordsName": "伸",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "46",
+          "wordEd": "110",
+          "wordsName": "进去",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "110",
+          "wordEd": "110",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "162770",
+      "ed": "165920",
+      "nc": "1.0",
+      "onebest": "爸爸还有一根管子带着你",
+      "si": "50",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "21",
+          "wordEd": "64",
+          "wordsName": "爸爸",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "64",
+          "wordEd": "90",
+          "wordsName": "还有",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "90",
+          "wordEd": "100",
+          "wordsName": "一",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "100",
+          "wordEd": "122",
+          "wordsName": "根",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "122",
+          "wordEd": "223",
+          "wordsName": "管子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9986",
+          "wordBg": "223",
+          "wordEd": "272",
+          "wordsName": "带着",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "272",
+          "wordEd": "308",
+          "wordsName": "你",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "165930",
+      "ed": "169050",
+      "nc": "1.0",
+      "onebest": "的种子从这根管子里面出来，",
+      "si": "51",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9965",
+          "wordBg": "13",
+          "wordEd": "34",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9975",
+          "wordBg": "34",
+          "wordEd": "78",
+          "wordsName": "种子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "78",
+          "wordEd": "100",
+          "wordsName": "从",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "100",
+          "wordEd": "112",
+          "wordsName": "这",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "112",
+          "wordEd": "136",
+          "wordsName": "根",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "136",
+          "wordEd": "184",
+          "wordsName": "管子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "184",
+          "wordEd": "224",
+          "wordsName": "里面",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "224",
+          "wordEd": "285",
+          "wordsName": "出来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "285",
+          "wordEd": "285",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "169110",
+      "ed": "173870",
+      "nc": "1.0",
+      "onebest": "爸爸的管子从一个小洞进入妈妈的肚子里，",
+      "si": "52",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "25",
+          "wordEd": "68",
+          "wordsName": "爸爸",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "80",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "80",
+          "wordEd": "126",
+          "wordsName": "管子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "126",
+          "wordEd": "183",
+          "wordsName": "从",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "183",
+          "wordEd": "218",
+          "wordsName": "一个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "218",
+          "wordEd": "256",
+          "wordsName": "小",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "256",
+          "wordEd": "294",
+          "wordsName": "洞",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "294",
+          "wordEd": "332",
+          "wordsName": "进入",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "332",
+          "wordEd": "370",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "370",
+          "wordEd": "382",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "382",
+          "wordEd": "434",
+          "wordsName": "肚子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "434",
+          "wordEd": "468",
+          "wordsName": "里",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "468",
+          "wordEd": "468",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "173880",
+      "ed": "178580",
+      "nc": "1.0",
+      "onebest": "然后这些种子就摇着尾巴用力的往理由",
+      "si": "53",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "21",
+          "wordEd": "72",
+          "wordsName": "然后",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "72",
+          "wordEd": "96",
+          "wordsName": "这些",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "96",
+          "wordEd": "138",
+          "wordsName": "种子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "138",
+          "wordEd": "158",
+          "wordsName": "就",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "158",
+          "wordEd": "192",
+          "wordsName": "摇",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "192",
+          "wordEd": "208",
+          "wordsName": "着",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "208",
+          "wordEd": "287",
+          "wordsName": "尾巴",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "287",
+          "wordEd": "336",
+          "wordsName": "用力",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8776",
+          "wordBg": "336",
+          "wordEd": "350",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "350",
+          "wordEd": "376",
+          "wordsName": "往",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7140",
+          "wordBg": "376",
+          "wordEd": "443",
+          "wordsName": "理由",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "178590",
+      "ed": "180440",
+      "nc": "1.0",
+      "onebest": "中中中中中",
+      "si": "54",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "17",
+          "wordEd": "50",
+          "wordsName": "中",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "50",
+          "wordEd": "84",
+          "wordsName": "中",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "84",
+          "wordEd": "102",
+          "wordsName": "中",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "102",
+          "wordEd": "138",
+          "wordsName": "中",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "138",
+          "wordEd": "166",
+          "wordsName": "中",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "180930",
+      "ed": "182980",
+      "nc": "1.0",
+      "onebest": "爸爸和妈妈",
+      "si": "55",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "27",
+          "wordEd": "82",
+          "wordsName": "爸爸",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "82",
+          "wordEd": "108",
+          "wordsName": "和",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "108",
+          "wordEd": "178",
+          "wordsName": "妈妈",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "183410",
+      "ed": "184290",
+      "nc": "1.0",
+      "onebest": "你看",
+      "si": "56",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "15",
+          "wordEd": "30",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "30",
+          "wordEd": "64",
+          "wordsName": "看",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "186530",
+      "ed": "188990",
+      "nc": "1.0",
+      "onebest": "用很多种方式结合在一起，",
+      "si": "57",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9987",
+          "wordBg": "10",
+          "wordEd": "64",
+          "wordsName": "用",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "64",
+          "wordEd": "124",
+          "wordsName": "很多",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "124",
+          "wordEd": "142",
+          "wordsName": "种",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "142",
+          "wordEd": "184",
+          "wordsName": "方式",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "184",
+          "wordEd": "216",
+          "wordsName": "结合",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9240",
+          "wordBg": "216",
+          "wordEd": "229",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9240",
+          "wordBg": "229",
+          "wordEd": "240",
+          "wordsName": "一起",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "240",
+          "wordEd": "240",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "191300",
+      "ed": "195890",
+      "nc": "1.0",
+      "onebest": "只要种子一进入妈妈的肚子，他们就会展开一种",
+      "si": "58",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "17",
+          "wordEd": "68",
+          "wordsName": "只要",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "68",
+          "wordEd": "118",
+          "wordsName": "种子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "118",
+          "wordEd": "134",
+          "wordsName": "一",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "134",
+          "wordEd": "170",
+          "wordsName": "进入",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "170",
+          "wordEd": "204",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "204",
+          "wordEd": "218",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "218",
+          "wordEd": "274",
+          "wordsName": "肚子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "274",
+          "wordEd": "274",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9752",
+          "wordBg": "274",
+          "wordEd": "312",
+          "wordsName": "他们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "312",
+          "wordEd": "322",
+          "wordsName": "就",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "322",
+          "wordEd": "336",
+          "wordsName": "会",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "336",
+          "wordEd": "391",
+          "wordsName": "展开",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9893",
+          "wordBg": "391",
+          "wordEd": "436",
+          "wordsName": "一种",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "196350",
+      "ed": "199010",
+      "nc": "1.0",
+      "onebest": "了不起的游泳比赛，",
+      "si": "59",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "19",
+          "wordEd": "122",
+          "wordsName": "了不起",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "122",
+          "wordEd": "138",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "138",
+          "wordEd": "192",
+          "wordsName": "游泳",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "192",
+          "wordEd": "240",
+          "wordsName": "比赛",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "240",
+          "wordEd": "240",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "199240",
+      "ed": "201790",
+      "nc": "1.0",
+      "onebest": "顺利的就会进入妈妈的袋子，",
+      "si": "60",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.8577",
+          "wordBg": "19",
+          "wordEd": "64",
+          "wordsName": "顺利",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7268",
+          "wordBg": "64",
+          "wordEd": "83",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9996",
+          "wordBg": "83",
+          "wordEd": "94",
+          "wordsName": "就",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9870",
+          "wordBg": "94",
+          "wordEd": "108",
+          "wordsName": "会",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "108",
+          "wordEd": "134",
+          "wordsName": "进入",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "134",
+          "wordEd": "168",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "168",
+          "wordEd": "182",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9956",
+          "wordBg": "182",
+          "wordEd": "240",
+          "wordsName": "袋子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "240",
+          "wordEd": "240",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "201810",
+      "ed": "204270",
+      "nc": "1.0",
+      "onebest": "慢慢长成一个小宝宝。",
+      "si": "61",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "26",
+          "wordEd": "76",
+          "wordsName": "慢慢",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "76",
+          "wordEd": "122",
+          "wordsName": "长成",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "122",
+          "wordEd": "140",
+          "wordsName": "一个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "140",
+          "wordEd": "222",
+          "wordsName": "小宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "222",
+          "wordEd": "222",
+          "wordsName": "。",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "222",
+          "wordEd": "222",
+          "wordsName": "",
+          "wp": "g"
+        }
+      ]
+    },
+    {
+      "bg": "206800",
+      "ed": "208190",
+      "nc": "1.0",
+      "onebest": "宝宝",
+      "si": "62",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "15",
+          "wordEd": "112",
+          "wordsName": "宝宝",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "208300",
+      "ed": "211960",
+      "nc": "1.0",
+      "onebest": "会会越来越大越来越大，你看",
+      "si": "63",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "13",
+          "wordEd": "60",
+          "wordsName": "会",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "60",
+          "wordEd": "92",
+          "wordsName": "会",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "92",
+          "wordEd": "154",
+          "wordsName": "越来越",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "154",
+          "wordEd": "186",
+          "wordsName": "大",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "186",
+          "wordEd": "248",
+          "wordsName": "越来越",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "248",
+          "wordEd": "299",
+          "wordsName": "大",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "299",
+          "wordEd": "299",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "299",
+          "wordEd": "310",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "310",
+          "wordEd": "340",
+          "wordsName": "看",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "212570",
+      "ed": "216390",
+      "nc": "1.0",
+      "onebest": "妈妈也会越来越胖越来越胖越来越胖。",
+      "si": "64",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "23",
+          "wordEd": "74",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "74",
+          "wordEd": "86",
+          "wordsName": "也",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "86",
+          "wordEd": "106",
+          "wordsName": "会",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "106",
+          "wordEd": "154",
+          "wordsName": "越来越",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "154",
+          "wordEd": "194",
+          "wordsName": "胖",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "194",
+          "wordEd": "238",
+          "wordsName": "越来越",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "238",
+          "wordEd": "271",
+          "wordsName": "胖",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "271",
+          "wordEd": "320",
+          "wordsName": "越来越",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "320",
+          "wordEd": "353",
+          "wordsName": "胖",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "353",
+          "wordEd": "353",
+          "wordsName": "。",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "219370",
+      "ed": "222890",
+      "nc": "1.0",
+      "onebest": "他原来这么小的嗯",
+      "si": "65",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.7695",
+          "wordBg": "17",
+          "wordEd": "48",
+          "wordsName": "他",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "48",
+          "wordEd": "106",
+          "wordsName": "原来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.5243",
+          "wordBg": "106",
+          "wordEd": "173",
+          "wordsName": "这么",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "173",
+          "wordEd": "231",
+          "wordsName": "小",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9997",
+          "wordBg": "231",
+          "wordEd": "277",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "277",
+          "wordEd": "336",
+          "wordsName": "嗯",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "223080",
+      "ed": "226020",
+      "nc": "1.0",
+      "onebest": "嗯就这么的这么大，",
+      "si": "66",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9857",
+          "wordBg": "21",
+          "wordEd": "58",
+          "wordsName": "嗯",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "58",
+          "wordEd": "97",
+          "wordsName": "就",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "97",
+          "wordEd": "136",
+          "wordsName": "这么",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7616",
+          "wordBg": "136",
+          "wordEd": "173",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "173",
+          "wordEd": "240",
+          "wordsName": "这么",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "240",
+          "wordEd": "274",
+          "wordsName": "大",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "274",
+          "wordEd": "274",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "226030",
+      "ed": "227370",
+      "nc": "1.0",
+      "onebest": "就变大了，",
+      "si": "67",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "13",
+          "wordEd": "30",
+          "wordsName": "就",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "30",
+          "wordEd": "56",
+          "wordsName": "变",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "56",
+          "wordEd": "94",
+          "wordsName": "大",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "112",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "112",
+          "wordEd": "112",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "229410",
+      "ed": "234030",
+      "nc": "1.0",
+      "onebest": "小宝宝准备好了就会从妈妈的肚子里面出来",
+      "si": "68",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "5",
+          "wordEd": "90",
+          "wordsName": "小宝宝",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "90",
+          "wordEd": "124",
+          "wordsName": "准备",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9995",
+          "wordBg": "124",
+          "wordEd": "148",
+          "wordsName": "好",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9673",
+          "wordBg": "148",
+          "wordEd": "158",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9984",
+          "wordBg": "158",
+          "wordEd": "172",
+          "wordsName": "就",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9984",
+          "wordBg": "172",
+          "wordEd": "182",
+          "wordsName": "会",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "182",
+          "wordEd": "200",
+          "wordsName": "从",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "200",
+          "wordEd": "248",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "248",
+          "wordEd": "265",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "265",
+          "wordEd": "322",
+          "wordsName": "肚子",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "322",
+          "wordEd": "359",
+          "wordsName": "里面",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "359",
+          "wordEd": "446",
+          "wordsName": "出来",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "234040",
+      "ed": "235910",
+      "nc": "1.0",
+      "onebest": "嗨，妈咪",
+      "si": "69",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.6391",
+          "wordBg": "11",
+          "wordEd": "68",
+          "wordsName": "嗨",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "68",
+          "wordEd": "68",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9988",
+          "wordBg": "68",
+          "wordEd": "168",
+          "wordsName": "妈咪",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "235930",
+      "ed": "238660",
+      "nc": "1.0",
+      "onebest": "你出来的时候有跟妈妈说hi吗？",
+      "si": "70",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "25",
+          "wordEd": "40",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "40",
+          "wordEd": "68",
+          "wordsName": "出来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "76",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "76",
+          "wordEd": "100",
+          "wordsName": "时候",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "100",
+          "wordEd": "118",
+          "wordsName": "有",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "118",
+          "wordEd": "132",
+          "wordsName": "跟",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "132",
+          "wordEd": "160",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "160",
+          "wordEd": "176",
+          "wordsName": "说",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9376",
+          "wordBg": "176",
+          "wordEd": "216",
+          "wordsName": "hi",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "216",
+          "wordEd": "249",
+          "wordsName": "吗",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "249",
+          "wordEd": "249",
+          "wordsName": "？",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "240520",
+      "ed": "242520",
+      "nc": "1.0",
+      "onebest": "现在你们知道吗？",
+      "si": "71",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "15",
+          "wordEd": "68",
+          "wordsName": "现在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "96",
+          "wordsName": "你们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "96",
+          "wordEd": "128",
+          "wordsName": "知道",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "128",
+          "wordEd": "180",
+          "wordsName": "吗",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "180",
+          "wordEd": "180",
+          "wordsName": "？",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "245260",
+      "ed": "247300",
+      "nc": "1.0",
+      "onebest": "大家也都知道的，",
+      "si": "72",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "11",
+          "wordEd": "72",
+          "wordsName": "大家",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "72",
+          "wordEd": "88",
+          "wordsName": "也",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "88",
+          "wordEd": "106",
+          "wordsName": "都",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "106",
+          "wordEd": "160",
+          "wordsName": "知道",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9343",
+          "wordBg": "160",
+          "wordEd": "178",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "178",
+          "wordEd": "178",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "247770",
+      "ed": "249530",
+      "nc": "1.0",
+      "onebest": "大家都知道了，",
+      "si": "73",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "23",
+          "wordEd": "78",
+          "wordsName": "大家",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "78",
+          "wordEd": "94",
+          "wordsName": "都",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "130",
+          "wordsName": "知道",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "130",
+          "wordEd": "148",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "148",
+          "wordEd": "148",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "251800",
+      "ed": "254090",
+      "nc": "1.0",
+      "onebest": "噢妈妈下了一个蛋，",
+      "si": "74",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.8009",
+          "wordBg": "26",
+          "wordEd": "99",
+          "wordsName": "噢",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "99",
+          "wordEd": "132",
+          "wordsName": "妈妈",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "132",
+          "wordEd": "152",
+          "wordsName": "下",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "152",
+          "wordEd": "164",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "164",
+          "wordEd": "178",
+          "wordsName": "一个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9981",
+          "wordBg": "178",
+          "wordEd": "206",
+          "wordsName": "蛋",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "206",
+          "wordEd": "206",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "255570",
+      "ed": "256370",
+      "nc": "1.0",
+      "onebest": "原因，",
+      "si": "75",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.6895",
+          "wordBg": "2",
+          "wordEd": "56",
+          "wordsName": "原因",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "56",
+          "wordEd": "56",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "256420",
+      "ed": "257630",
+      "nc": "1.0",
+      "onebest": "但是呢",
+      "si": "76",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "11",
+          "wordEd": "67",
+          "wordsName": "但是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "67",
+          "wordEd": "96",
+          "wordsName": "呢",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "259060",
+      "ed": "259570",
+      "nc": "1.0",
+      "onebest": "啊。",
+      "si": "77",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.8963",
+          "wordBg": "3",
+          "wordEd": "46",
+          "wordsName": "啊",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "46",
+          "wordEd": "46",
+          "wordsName": "。",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "46",
+          "wordEd": "46",
+          "wordsName": "",
+          "wp": "g"
+        }
+      ]
+    }
+  ]
+}

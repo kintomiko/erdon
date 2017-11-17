@@ -12,7 +12,6 @@ import com.jayway.jsonpath.spi.json.JsonProvider
 import com.jayway.jsonpath.spi.mapper.JacksonMappingProvider
 import com.jayway.jsonpath.spi.json.JacksonJsonProvider
 import com.jayway.jsonpath.Option
-import javax.sound.sampled.AudioFormat
 import javax.sound.sampled.AudioInputStream
 
 
@@ -36,28 +35,44 @@ fun main(args: Array<String>){
         }
     })
 
-    val wavReader = WavReader("/Users/kindai/workspace/erdon/mouth/speech/cuts-yuan-ycdj.wav")
-    val cuts = parseCutsFromFile("/Users/kindai/workspace/erdon/mouth/speech/cuts-yuan-ycdj.json")
-    val fragments = VoiceSplitter.splitVoice(wavReader, cuts)
-    VoiceDao.save(fragments)
+    listOf(
+            "/Users/kindai/workspace/erdon/mouth/speech/yuan-mmxlgd",
+            "/Users/kindai/workspace/erdon/mouth/speech/yuan-qxljgy",
+            "/Users/kindai/workspace/erdon/mouth/speech/yuan-xlhdd",
+            "/Users/kindai/workspace/erdon/mouth/speech/cuts-yuan-ycdj"
+            ).forEach {
+        println("processing $it.wav")
+        val wavReader = WavReader("$it.wav")
+        println("processing $it.json")
+        val cuts = parseCutsFromFile("$it.json")
+        VoiceExtractor.extract(SingleExtractRequest(wavReader, cuts, Person(1, "Yuan Lin", Sex.MALE), it))
+    }
 }
 
-class WavReader {
-    private val audioInputStream: AudioInputStream
-    private val buffer: ByteArray
-    val format: AudioFormat
+data class SingleExtractRequest(
+        val reader: WavReader,
+        val cuts: List<Cut>,
+        val person: Person,
+        val clipName: String
+)
 
-    constructor(path: String) {
-        audioInputStream = AudioSystem.getAudioInputStream(File(path))
-        buffer = ByteArray(audioInputStream.frameLength.toInt()*audioInputStream.format.frameSize)
-        audioInputStream.read(buffer)
-        format = audioInputStream.format
-    }
+class WavReader(path: String) {
+    private val audioInputStream: AudioInputStream = AudioSystem.getAudioInputStream(File(path))
+    private val buffer: ByteArray
 
     fun loadWord(startInMillis: Long, endInMillis: Long): ByteArray {
-        val start = (startInMillis * format.frameRate * format.frameSize/1000).toInt()
-        val end = (endInMillis * format.frameRate * format.frameSize/1000).toInt()
+        val start = (startInMillis * format().frameRate * format().frameSize/1000).toInt()
+        val end = (endInMillis * format().frameRate * format().frameSize/1000).toInt()
         return buffer.copyOfRange(start, end)
+    }
+
+    fun buffer() = buffer
+
+    fun format() = audioInputStream.format!!
+
+    init {
+        buffer = ByteArray(audioInputStream.frameLength.toInt()*audioInputStream.format.frameSize)
+        audioInputStream.read(buffer)
     }
 }
 
