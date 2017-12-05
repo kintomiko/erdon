@@ -4,6 +4,7 @@ import com.github.kittinunf.fuel.httpGet
 import com.github.kittinunf.fuel.httpPost
 import com.github.kittinunf.result.Result
 import com.github.kittinunf.result.getAs
+import com.jayway.jsonpath.JsonPath
 import org.json.JSONObject
 import org.kin.erdon.mouth.configs.Config
 import org.kin.erdon.mouth.configs.JsonFactory
@@ -47,7 +48,10 @@ object BaiduApi {
             is Result.Failure -> {
             }
             is Result.Success -> {
-                recResult = result.getAs<String>()
+                recResult = JsonPath
+                        .using(JsonFactory.conf)
+                        .parse(String(response.data))
+                        .read("\$.result[0]", String::class.java)
             }
         }
         return recResult!!

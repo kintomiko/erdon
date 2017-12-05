@@ -7,10 +7,11 @@ import org.kin.erdon.mouth.functions.BaiduApi
 import org.kin.erdon.mouth.functions.WordCut
 import org.kin.erdon.mouth.functions.pinyin
 import javax.sound.sampled.AudioFormat
+import javax.sound.sampled.AudioSystem
 
 fun main(args: Array<String>){
     val sen = """
-        朱莉娅不知道
+        你是个工作狂
         """
     val words = WordCut.cut(sen)
 //    val words = listOf("你", "是", "个", "工作狂")
@@ -30,17 +31,17 @@ fun main(args: Array<String>){
         merged
     })
 
-    val format = AudioFormat(24000f, 16, 1, true, false)
+    val format = AudioFormat(16000f, 16, 1, true, false)
 
     val result = listen(buffer, format)
 
-//    val recResult = listen(buffer, format)
+    println(result)
 
 //    val clip = AudioSystem.getClip()
 //    clip.open(format, buffer, 0, buffer.size)
 //    clip.start()
 //    clip.drain()
-
+//
 //    Thread.sleep(30*1000)
 
 }

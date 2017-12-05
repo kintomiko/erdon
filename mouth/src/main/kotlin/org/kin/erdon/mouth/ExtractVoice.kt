@@ -19,7 +19,8 @@ fun main(args: Array<String>){
             "/Users/kindai/workspace/erdon/mouth/speech/yuan-mmxlgd",
             "/Users/kindai/workspace/erdon/mouth/speech/yuan-qxljgy",
             "/Users/kindai/workspace/erdon/mouth/speech/yuan-xlhdd",
-            "/Users/kindai/workspace/erdon/mouth/speech/cuts-yuan-ycdj"
+            "/Users/kindai/workspace/erdon/mouth/speech/cuts-yuan-ycdj",
+                "/Users/kindai/workspace/erdon/mouth/speech/Rec_007"
             ).forEach {
         println("processing $it.wav")
         val wavReader = WavReader("$it.wav")

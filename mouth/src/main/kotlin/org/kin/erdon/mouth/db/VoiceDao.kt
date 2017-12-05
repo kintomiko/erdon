@@ -39,6 +39,81 @@ object VoiceDao{
         return clip!!
     }
 
+    fun readCount(): Int{
+        var count = 0
+        runWithDbConnection(Database.erdon, true) { dbConnection ->
+            val ps = dbConnection.prepareStatement(
+                    """
+                        select count(1)
+                        from fragment f
+                        """
+            )
+
+            execSql(ps) {
+                if (it.next()) {
+                    count = it.getInt(1)
+                }
+            }
+        }
+
+        return count
+    }
+
+    fun readClip(id: Int): Clip?{
+
+        var clip: Clip? = null
+        runWithDbConnection(Database.erdon, true) { dbConnection ->
+            val ps = dbConnection.prepareStatement(
+                    Sql.selectClip
+            )
+
+            ps.setInt(1, id)
+
+            execSql(ps) {
+                if (it.next()) {
+                    clip = Clip(
+                            it.getInt(1),
+                            it.getString(2),
+                            it.getString(3),
+                            null
+                    )
+                }
+            }
+        }
+
+        return clip
+
+    }
+
+    fun read(offset: Int = 0, limit: Int = 10): List<Fragment>{
+        val voiceList = mutableListOf<Fragment>()
+
+        runWithDbConnection(Database.erdon, true) { dbConnection ->
+            val ps = dbConnection.prepareStatement(
+                    Sql.selectFragment
+            )
+
+            ps.setInt(1, offset)
+            ps.setInt(2, limit)
+
+            execSql(ps) {
+                while (it.next()) {
+                    voiceList.add(Fragment(
+                            it.getInt(1),
+                            it.getInt(2),
+                            it.getInt(3),
+                            it.getInt(4),
+                            it.getBytes("data"),
+                            it.getFloat("wc"),
+                            it.getString("wp")
+                    ))
+                }
+            }
+        }
+
+        return voiceList
+    }
+
     fun readWord(pronunciation: String, personId: Int): Voice?{
         var audio: Voice? = null
         runWithDbConnection(Database.erdon, true) { dbConnection ->
@@ -87,6 +162,21 @@ object VoiceDao{
             }
         }
         return audio
+    }
+
+    fun updateFragmentData(data: ByteArray, id: Int) {
+        runWithDbConnection(Database.erdon, true) { dbConnection ->
+            val ps = dbConnection.prepareStatement(
+                    """
+                        update fragment set data = ? where id = ?
+                        """, Statement.RETURN_GENERATED_KEYS
+            )
+
+            ps.setBinaryStream(1, ByteArrayInputStream(data))
+            ps.setInt(2, id)
+
+            execUpdate(ps)
+        }
     }
 
     private fun create(fragments: Fragment): Int {
@@ -187,7 +277,7 @@ object VoiceDao{
 fun execUpdate(preparedStatement: PreparedStatement): Int{
     try {
         preparedStatement.executeUpdate()
-        var rs = preparedStatement.generatedKeys
+        val rs = preparedStatement.generatedKeys
         if(rs.next()){
             return rs.getInt(1)
         }
