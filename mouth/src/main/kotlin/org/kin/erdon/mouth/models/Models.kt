@@ -1,5 +1,6 @@
-package org.kin.erdon.mouth
+package org.kin.erdon.mouth.models
 
+import com.fasterxml.jackson.annotation.JsonIgnore
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 
 @JsonIgnoreProperties(ignoreUnknown = true)
@@ -22,6 +23,15 @@ data class Word(
     val id: Int?,
     val name: String,
     val pronunciation: String
+)
+
+data class Voice (
+        val clip: Clip,
+        val person: Person,
+        val word: Word,
+        val wc: Float,
+        val wp: String,
+        @JsonIgnore val audio: ByteArray
 )
 
 data class Fragment(

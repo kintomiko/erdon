@@ -1,4 +1,10 @@
-package org.kin.erdon.mouth
+package org.kin.erdon.mouth.functions
+
+import org.kin.erdon.mouth.models.Clip
+import org.kin.erdon.mouth.models.Fragment
+import org.kin.erdon.mouth.SingleExtractRequest
+import org.kin.erdon.mouth.models.Word
+import org.kin.erdon.mouth.db.VoiceDao
 
 object VoiceExtractor {
 

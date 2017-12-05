@@ -1,0 +1,4582 @@
+{
+  "result": [
+    {
+      "bg": "280",
+      "ed": "1470",
+      "nc": "1.0",
+      "onebest": "不是",
+      "si": "0",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "3",
+          "wordEd": "90",
+          "wordsName": "不是",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "1760",
+      "ed": "2900",
+      "nc": "1.0",
+      "onebest": "做梦，",
+      "si": "1",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "21",
+          "wordEd": "96",
+          "wordsName": "做梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "96",
+          "wordEd": "96",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "3240",
+      "ed": "4650",
+      "nc": "1.0",
+      "onebest": "看一下哈",
+      "si": "2",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "5",
+          "wordEd": "32",
+          "wordsName": "看",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "32",
+          "wordEd": "60",
+          "wordsName": "一下",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "60",
+          "wordEd": "136",
+          "wordsName": "哈",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "5670",
+      "ed": "7220",
+      "nc": "1.0",
+      "onebest": "好做梦",
+      "si": "3",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9942",
+          "wordBg": "3",
+          "wordEd": "72",
+          "wordsName": "好",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "72",
+          "wordEd": "152",
+          "wordsName": "做梦",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "8690",
+      "ed": "10640",
+      "nc": "1.0",
+      "onebest": "睡着了，这小朋友",
+      "si": "4",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "3",
+          "wordEd": "92",
+          "wordsName": "睡着",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9989",
+          "wordBg": "92",
+          "wordEd": "108",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "108",
+          "wordEd": "108",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9133",
+          "wordBg": "108",
+          "wordEd": "122",
+          "wordsName": "这",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "122",
+          "wordEd": "176",
+          "wordsName": "小朋友",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "11480",
+      "ed": "13570",
+      "nc": "1.0",
+      "onebest": "哇他像个超人一样",
+      "si": "5",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9904",
+          "wordBg": "11",
+          "wordEd": "42",
+          "wordsName": "哇",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8085",
+          "wordBg": "42",
+          "wordEd": "60",
+          "wordsName": "他",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "60",
+          "wordEd": "82",
+          "wordsName": "像",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "82",
+          "wordEd": "90",
+          "wordsName": "个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "90",
+          "wordEd": "152",
+          "wordsName": "超人",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "152",
+          "wordEd": "186",
+          "wordsName": "一样",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "14230",
+      "ed": "15060",
+      "nc": "1.0",
+      "onebest": "非",
+      "si": "6",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.7853",
+          "wordBg": "3",
+          "wordEd": "72",
+          "wordsName": "非",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "16210",
+      "ed": "22450",
+      "nc": "1.0",
+      "onebest": "啊真的尿出来啦，论变成真的，啦他尿尿了，你看",
+      "si": "7",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9963",
+          "wordBg": "21",
+          "wordEd": "90",
+          "wordsName": "啊",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9962",
+          "wordBg": "90",
+          "wordEd": "118",
+          "wordsName": "真的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "118",
+          "wordEd": "144",
+          "wordsName": "尿",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "144",
+          "wordEd": "182",
+          "wordsName": "出来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "182",
+          "wordEd": "265",
+          "wordsName": "啦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "265",
+          "wordEd": "265",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "265",
+          "wordEd": "316",
+          "wordsName": "论",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "316",
+          "wordEd": "354",
+          "wordsName": "变成",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "354",
+          "wordEd": "396",
+          "wordsName": "真的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "396",
+          "wordEd": "396",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "396",
+          "wordEd": "466",
+          "wordsName": "啦",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9558",
+          "wordBg": "466",
+          "wordEd": "488",
+          "wordsName": "他",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "488",
+          "wordEd": "544",
+          "wordsName": "尿尿",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9997",
+          "wordBg": "544",
+          "wordEd": "564",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "564",
+          "wordEd": "564",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "564",
+          "wordEd": "576",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "576",
+          "wordEd": "602",
+          "wordsName": "看",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "23490",
+      "ed": "27230",
+      "nc": "1.0",
+      "onebest": "在我们的到来大脑里面住了很多",
+      "si": "8",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "23",
+          "wordEd": "48",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "48",
+          "wordEd": "76",
+          "wordsName": "我们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "76",
+          "wordEd": "86",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "86",
+          "wordEd": "169",
+          "wordsName": "到来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "169",
+          "wordEd": "216",
+          "wordsName": "大脑",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "216",
+          "wordEd": "262",
+          "wordsName": "里面",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "262",
+          "wordEd": "280",
+          "wordsName": "住",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "280",
+          "wordEd": "292",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "292",
+          "wordEd": "360",
+          "wordsName": "很多",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "27240",
+      "ed": "29130",
+      "nc": "1.0",
+      "onebest": "老神经细胞，",
+      "si": "9",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "5",
+          "wordEd": "52",
+          "wordsName": "老",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "52",
+          "wordEd": "96",
+          "wordsName": "神经",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "96",
+          "wordEd": "172",
+          "wordsName": "细胞",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "172",
+          "wordEd": "172",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "29140",
+      "ed": "31420",
+      "nc": "1.0",
+      "onebest": "听到没有很多老师你的细胞，",
+      "si": "10",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "9",
+          "wordEd": "48",
+          "wordsName": "听到",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "48",
+          "wordEd": "74",
+          "wordsName": "没有",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "74",
+          "wordEd": "108",
+          "wordsName": "很多",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "108",
+          "wordEd": "140",
+          "wordsName": "老师",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7651",
+          "wordBg": "140",
+          "wordEd": "150",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8781",
+          "wordBg": "150",
+          "wordEd": "162",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "162",
+          "wordEd": "214",
+          "wordsName": "细胞",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "214",
+          "wordEd": "214",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "31440",
+      "ed": "34710",
+      "nc": "1.0",
+      "onebest": "他们指挥着我们做各种各样的动物，",
+      "si": "11",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9963",
+          "wordBg": "13",
+          "wordEd": "58",
+          "wordsName": "他们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "58",
+          "wordEd": "104",
+          "wordsName": "指挥",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9996",
+          "wordBg": "104",
+          "wordEd": "116",
+          "wordsName": "着",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "116",
+          "wordEd": "160",
+          "wordsName": "我们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "160",
+          "wordEd": "184",
+          "wordsName": "做",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "184",
+          "wordEd": "252",
+          "wordsName": "各种各样",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "252",
+          "wordEd": "260",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "260",
+          "wordEd": "312",
+          "wordsName": "动物",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "312",
+          "wordEd": "312",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "34730",
+      "ed": "36250",
+      "nc": "1.0",
+      "onebest": "就这个脑袋里面",
+      "si": "12",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "9",
+          "wordEd": "28",
+          "wordsName": "就",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "28",
+          "wordEd": "50",
+          "wordsName": "这个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "50",
+          "wordEd": "86",
+          "wordsName": "脑袋",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "86",
+          "wordEd": "134",
+          "wordsName": "里面",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "36270",
+      "ed": "39830",
+      "nc": "1.0",
+      "onebest": "神经细胞指挥的嘻嘻在那里",
+      "si": "13",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "11",
+          "wordEd": "64",
+          "wordsName": "神经",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "64",
+          "wordEd": "125",
+          "wordsName": "细胞",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "125",
+          "wordEd": "178",
+          "wordsName": "指挥",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9807",
+          "wordBg": "178",
+          "wordEd": "233",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9911",
+          "wordBg": "233",
+          "wordEd": "278",
+          "wordsName": "嘻嘻",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "278",
+          "wordEd": "296",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9985",
+          "wordBg": "296",
+          "wordEd": "334",
+          "wordsName": "那里",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "39860",
+      "ed": "44100",
+      "nc": "1.0",
+      "onebest": "玩啊跳啊吃饭，啊讨厌那什么的，",
+      "si": "14",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9987",
+          "wordBg": "21",
+          "wordEd": "64",
+          "wordsName": "玩",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9949",
+          "wordBg": "64",
+          "wordEd": "94",
+          "wordsName": "啊",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "142",
+          "wordsName": "跳",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "142",
+          "wordEd": "164",
+          "wordsName": "啊",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "164",
+          "wordEd": "208",
+          "wordsName": "吃饭",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "208",
+          "wordEd": "208",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9911",
+          "wordBg": "208",
+          "wordEd": "240",
+          "wordsName": "啊",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "240",
+          "wordEd": "294",
+          "wordsName": "讨厌",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.4984",
+          "wordBg": "294",
+          "wordEd": "335",
+          "wordsName": "那",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "335",
+          "wordEd": "374",
+          "wordsName": "什么",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "374",
+          "wordEd": "398",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "398",
+          "wordEd": "398",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "45700",
+      "ed": "47150",
+      "nc": "1.0",
+      "onebest": "啊你看",
+      "si": "15",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9996",
+          "wordBg": "17",
+          "wordEd": "90",
+          "wordsName": "啊",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "90",
+          "wordEd": "100",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "100",
+          "wordEd": "122",
+          "wordsName": "看",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "47890",
+      "ed": "52530",
+      "nc": "1.0",
+      "onebest": "都是脑细胞来指挥他在干这个事情，那你看讨厌",
+      "si": "16",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "17",
+          "wordEd": "85",
+          "wordsName": "都是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "85",
+          "wordEd": "146",
+          "wordsName": "脑细胞",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "146",
+          "wordEd": "158",
+          "wordsName": "来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "158",
+          "wordEd": "200",
+          "wordsName": "指挥",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9881",
+          "wordBg": "200",
+          "wordEd": "227",
+          "wordsName": "他",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9981",
+          "wordBg": "227",
+          "wordEd": "257",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "257",
+          "wordEd": "280",
+          "wordsName": "干",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9976",
+          "wordBg": "280",
+          "wordEd": "300",
+          "wordsName": "这个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "300",
+          "wordEd": "332",
+          "wordsName": "事情",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "332",
+          "wordEd": "332",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9389",
+          "wordBg": "332",
+          "wordEd": "348",
+          "wordsName": "那",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "348",
+          "wordEd": "357",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "357",
+          "wordEd": "384",
+          "wordsName": "看",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "384",
+          "wordEd": "440",
+          "wordsName": "讨厌",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "55340",
+      "ed": "56780",
+      "nc": "1.0",
+      "onebest": "坐着坐着",
+      "si": "17",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9751",
+          "wordBg": "25",
+          "wordEd": "52",
+          "wordsName": "坐",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9977",
+          "wordBg": "52",
+          "wordEd": "64",
+          "wordsName": "着",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9750",
+          "wordBg": "64",
+          "wordEd": "86",
+          "wordsName": "坐",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "86",
+          "wordEd": "120",
+          "wordsName": "着",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "57700",
+      "ed": "61080",
+      "nc": "1.0",
+      "onebest": "他指挥的一部分的神经细胞说",
+      "si": "18",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9997",
+          "wordBg": "15",
+          "wordEd": "40",
+          "wordsName": "他",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "40",
+          "wordEd": "80",
+          "wordsName": "指挥",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "80",
+          "wordEd": "135",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "135",
+          "wordEd": "156",
+          "wordsName": "一",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "156",
+          "wordEd": "186",
+          "wordsName": "部分",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "186",
+          "wordEd": "198",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "198",
+          "wordEd": "236",
+          "wordsName": "神经",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "236",
+          "wordEd": "272",
+          "wordsName": "细胞",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "272",
+          "wordEd": "310",
+          "wordsName": "说",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "61230",
+      "ed": "62870",
+      "nc": "1.0",
+      "onebest": "唉呀，累了",
+      "si": "19",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9677",
+          "wordBg": "26",
+          "wordEd": "77",
+          "wordsName": "唉呀",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "77",
+          "wordEd": "77",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9996",
+          "wordBg": "77",
+          "wordEd": "114",
+          "wordsName": "累",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "114",
+          "wordEd": "146",
+          "wordsName": "了",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "62880",
+      "ed": "65050",
+      "nc": "1.0",
+      "onebest": "困难睡一般，",
+      "si": "20",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "3",
+          "wordEd": "94",
+          "wordsName": "困难",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9973",
+          "wordBg": "94",
+          "wordEd": "166",
+          "wordsName": "睡",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9940",
+          "wordBg": "166",
+          "wordEd": "202",
+          "wordsName": "一般",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "202",
+          "wordEd": "202",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "65560",
+      "ed": "67890",
+      "nc": "1.0",
+      "onebest": "睡觉觉吧，",
+      "si": "21",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "7",
+          "wordEd": "80",
+          "wordsName": "睡觉",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "80",
+          "wordEd": "98",
+          "wordsName": "觉",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "98",
+          "wordEd": "126",
+          "wordsName": "吧",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "126",
+          "wordEd": "126",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "70000",
+      "ed": "74320",
+      "nc": "1.0",
+      "onebest": "可还有一部分脑神经细胞不肯睡，他们在忙什么",
+      "si": "22",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "17",
+          "wordEd": "46",
+          "wordsName": "可",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "46",
+          "wordEd": "76",
+          "wordsName": "还有",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "76",
+          "wordEd": "88",
+          "wordsName": "一",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "88",
+          "wordEd": "134",
+          "wordsName": "部分",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "134",
+          "wordEd": "196",
+          "wordsName": "脑神经",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "196",
+          "wordEd": "234",
+          "wordsName": "细胞",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "234",
+          "wordEd": "266",
+          "wordsName": "不肯",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "266",
+          "wordEd": "294",
+          "wordsName": "睡",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "294",
+          "wordEd": "294",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9965",
+          "wordBg": "294",
+          "wordEd": "320",
+          "wordsName": "他们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "320",
+          "wordEd": "332",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "332",
+          "wordEd": "358",
+          "wordsName": "忙",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "358",
+          "wordEd": "402",
+          "wordsName": "什么",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "74940",
+      "ed": "75710",
+      "nc": "1.0",
+      "onebest": "啊",
+      "si": "23",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9995",
+          "wordBg": "7",
+          "wordEd": "58",
+          "wordsName": "啊",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "75730",
+      "ed": "78410",
+      "nc": "1.0",
+      "onebest": "再造梦啊",
+      "si": "24",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9978",
+          "wordBg": "17",
+          "wordEd": "78",
+          "wordsName": "再造",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "78",
+          "wordEd": "116",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "116",
+          "wordEd": "164",
+          "wordsName": "啊",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "80400",
+      "ed": "81970",
+      "nc": "1.0",
+      "onebest": "那也受不了，伤害",
+      "si": "25",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "25",
+          "wordEd": "42",
+          "wordsName": "那",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "42",
+          "wordEd": "60",
+          "wordsName": "也",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "60",
+          "wordEd": "96",
+          "wordsName": "受不了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "96",
+          "wordEd": "96",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "96",
+          "wordEd": "134",
+          "wordsName": "伤害",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "82680",
+      "ed": "84280",
+      "nc": "1.0",
+      "onebest": "你手不要上了，啊",
+      "si": "26",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9759",
+          "wordBg": "21",
+          "wordEd": "40",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9915",
+          "wordBg": "40",
+          "wordEd": "58",
+          "wordsName": "手",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "58",
+          "wordEd": "78",
+          "wordsName": "不要",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9600",
+          "wordBg": "78",
+          "wordEd": "96",
+          "wordsName": "上",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9938",
+          "wordBg": "96",
+          "wordEd": "114",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "114",
+          "wordEd": "114",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9993",
+          "wordBg": "114",
+          "wordEd": "132",
+          "wordsName": "啊",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "86230",
+      "ed": "87620",
+      "nc": "1.0",
+      "onebest": "又加班，",
+      "si": "27",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "17",
+          "wordEd": "66",
+          "wordsName": "又",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "66",
+          "wordEd": "134",
+          "wordsName": "加班",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "134",
+          "wordEd": "134",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "87630",
+      "ed": "89090",
+      "nc": "1.0",
+      "onebest": "他们在造梦，",
+      "si": "28",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9987",
+          "wordBg": "13",
+          "wordEd": "48",
+          "wordsName": "他们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "48",
+          "wordEd": "60",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9983",
+          "wordBg": "60",
+          "wordEd": "88",
+          "wordsName": "造",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9989",
+          "wordBg": "88",
+          "wordEd": "127",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "127",
+          "wordEd": "127",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "90350",
+      "ed": "92790",
+      "nc": "1.0",
+      "onebest": "不不不不造一个直升机，",
+      "si": "29",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "8",
+          "wordEd": "26",
+          "wordsName": "不",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "26",
+          "wordEd": "46",
+          "wordsName": "不",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "46",
+          "wordEd": "74",
+          "wordsName": "不",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9954",
+          "wordBg": "74",
+          "wordEd": "99",
+          "wordsName": "不",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "99",
+          "wordEd": "128",
+          "wordsName": "造",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "128",
+          "wordEd": "140",
+          "wordsName": "一个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "140",
+          "wordEd": "228",
+          "wordsName": "直升机",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "228",
+          "wordEd": "228",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "98810",
+      "ed": "101600",
+      "nc": "1.0",
+      "onebest": "有的梦让我们高兴，你看",
+      "si": "30",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9795",
+          "wordBg": "25",
+          "wordEd": "68",
+          "wordsName": "有的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9918",
+          "wordBg": "68",
+          "wordEd": "94",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "111",
+          "wordsName": "让",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "111",
+          "wordEd": "136",
+          "wordsName": "我们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "136",
+          "wordEd": "211",
+          "wordsName": "高兴",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "211",
+          "wordEd": "211",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "211",
+          "wordEd": "230",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "230",
+          "wordEd": "254",
+          "wordsName": "看",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "101700",
+      "ed": "103840",
+      "nc": "1.0",
+      "onebest": "B坐上直升机，",
+      "si": "31",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9974",
+          "wordBg": "15",
+          "wordEd": "84",
+          "wordsName": "B",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9969",
+          "wordBg": "84",
+          "wordEd": "102",
+          "wordsName": "坐",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "102",
+          "wordEd": "130",
+          "wordsName": "上",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "130",
+          "wordEd": "194",
+          "wordsName": "直升机",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "194",
+          "wordEd": "194",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "103860",
+      "ed": "107230",
+      "nc": "1.0",
+      "onebest": "有的梦让我们难过，狗狗走路",
+      "si": "32",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "15",
+          "wordEd": "50",
+          "wordsName": "有的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "50",
+          "wordEd": "74",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9981",
+          "wordBg": "74",
+          "wordEd": "88",
+          "wordsName": "让",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "88",
+          "wordEd": "108",
+          "wordsName": "我们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "108",
+          "wordEd": "178",
+          "wordsName": "难过",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "178",
+          "wordEd": "178",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9397",
+          "wordBg": "178",
+          "wordEd": "262",
+          "wordsName": "狗狗",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "262",
+          "wordEd": "314",
+          "wordsName": "走路",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "108700",
+      "ed": "112760",
+      "nc": "1.0",
+      "onebest": "有时候梦，让我们害怕啊吓人，呢",
+      "si": "33",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.6932",
+          "wordBg": "21",
+          "wordEd": "58",
+          "wordsName": "有时候",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9817",
+          "wordBg": "58",
+          "wordEd": "84",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "84",
+          "wordEd": "84",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "84",
+          "wordEd": "100",
+          "wordsName": "让",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "100",
+          "wordEd": "126",
+          "wordsName": "我们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "126",
+          "wordEd": "203",
+          "wordsName": "害怕",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9982",
+          "wordBg": "203",
+          "wordEd": "306",
+          "wordsName": "啊",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9965",
+          "wordBg": "306",
+          "wordEd": "354",
+          "wordsName": "吓人",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "354",
+          "wordEd": "354",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9951",
+          "wordBg": "354",
+          "wordEd": "388",
+          "wordsName": "呢",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "113770",
+      "ed": "115340",
+      "nc": "1.0",
+      "onebest": "吓死个人，勒",
+      "si": "34",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9995",
+          "wordBg": "22",
+          "wordEd": "56",
+          "wordsName": "吓",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9995",
+          "wordBg": "56",
+          "wordEd": "68",
+          "wordsName": "死",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "102",
+          "wordsName": "个人",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "102",
+          "wordEd": "102",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9450",
+          "wordBg": "102",
+          "wordEd": "138",
+          "wordsName": "勒",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "115460",
+      "ed": "118350",
+      "nc": "1.0",
+      "onebest": "有这么很累，噢洗盘子",
+      "si": "35",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "19",
+          "wordEd": "50",
+          "wordsName": "有",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "50",
+          "wordEd": "78",
+          "wordsName": "这么",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9828",
+          "wordBg": "78",
+          "wordEd": "114",
+          "wordsName": "很",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9979",
+          "wordBg": "114",
+          "wordEd": "163",
+          "wordsName": "累",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "163",
+          "wordEd": "163",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "163",
+          "wordEd": "188",
+          "wordsName": "噢",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "188",
+          "wordEd": "204",
+          "wordsName": "洗",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "204",
+          "wordEd": "268",
+          "wordsName": "盘子",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "119620",
+      "ed": "121570",
+      "nc": "1.0",
+      "onebest": "有的话很舒服，",
+      "si": "36",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "22",
+          "wordEd": "56",
+          "wordsName": "有的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7768",
+          "wordBg": "56",
+          "wordEd": "74",
+          "wordsName": "话",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "74",
+          "wordEd": "90",
+          "wordsName": "很",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "90",
+          "wordEd": "170",
+          "wordsName": "舒服",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "170",
+          "wordEd": "170",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "123800",
+      "ed": "126390",
+      "nc": "1.0",
+      "onebest": "有的梦是身体告诉我们的，",
+      "si": "37",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "25",
+          "wordEd": "56",
+          "wordsName": "有的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "56",
+          "wordEd": "82",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "82",
+          "wordEd": "94",
+          "wordsName": "是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "138",
+          "wordsName": "身体",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "138",
+          "wordEd": "174",
+          "wordsName": "告诉",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "174",
+          "wordEd": "208",
+          "wordsName": "我们",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "208",
+          "wordEd": "233",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "233",
+          "wordEd": "233",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "126820",
+      "ed": "129760",
+      "nc": "1.0",
+      "onebest": "你看感觉很冷，梦也会有点",
+      "si": "38",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "18",
+          "wordEd": "44",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "44",
+          "wordEd": "74",
+          "wordsName": "看",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "74",
+          "wordEd": "124",
+          "wordsName": "感觉",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "124",
+          "wordEd": "144",
+          "wordsName": "很",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "144",
+          "wordEd": "170",
+          "wordsName": "冷",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "170",
+          "wordEd": "170",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9983",
+          "wordBg": "170",
+          "wordEd": "204",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9982",
+          "wordBg": "204",
+          "wordEd": "216",
+          "wordsName": "也",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9982",
+          "wordBg": "216",
+          "wordEd": "228",
+          "wordsName": "会",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "228",
+          "wordEd": "280",
+          "wordsName": "有点",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "130970",
+      "ed": "134120",
+      "nc": "1.0",
+      "onebest": "感觉很热，梦也是热乎乎的，",
+      "si": "39",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "21",
+          "wordEd": "66",
+          "wordsName": "感觉",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "66",
+          "wordEd": "90",
+          "wordsName": "很",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "90",
+          "wordEd": "126",
+          "wordsName": "热",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "126",
+          "wordEd": "126",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "126",
+          "wordEd": "156",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "156",
+          "wordEd": "174",
+          "wordsName": "也",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "174",
+          "wordEd": "200",
+          "wordsName": "是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "200",
+          "wordEd": "266",
+          "wordsName": "热乎乎",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "266",
+          "wordEd": "289",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "289",
+          "wordEd": "289",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "134550",
+      "ed": "135210",
+      "nc": "1.0",
+      "onebest": "太长了",
+      "si": "40",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "3",
+          "wordEd": "48",
+          "wordsName": "太长",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "48",
+          "wordEd": "60",
+          "wordsName": "了",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "135560",
+      "ed": "136480",
+      "nc": "1.0",
+      "onebest": "什么",
+      "si": "41",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9735",
+          "wordBg": "26",
+          "wordEd": "66",
+          "wordsName": "什么",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "137840",
+      "ed": "142630",
+      "nc": "1.0",
+      "onebest": "感觉好痒，然后梦也是痒痒的。QQ",
+      "si": "42",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "23",
+          "wordEd": "60",
+          "wordsName": "感觉",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9270",
+          "wordBg": "60",
+          "wordEd": "86",
+          "wordsName": "好",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9268",
+          "wordBg": "86",
+          "wordEd": "163",
+          "wordsName": "痒",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "163",
+          "wordEd": "163",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "163",
+          "wordEd": "202",
+          "wordsName": "然后",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9882",
+          "wordBg": "202",
+          "wordEd": "228",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "228",
+          "wordEd": "240",
+          "wordsName": "也",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "240",
+          "wordEd": "254",
+          "wordsName": "是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9953",
+          "wordBg": "254",
+          "wordEd": "284",
+          "wordsName": "痒",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9953",
+          "wordBg": "284",
+          "wordEd": "316",
+          "wordsName": "痒",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "316",
+          "wordEd": "391",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "391",
+          "wordEd": "391",
+          "wordsName": "。",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9207",
+          "wordBg": "391",
+          "wordEd": "443",
+          "wordsName": "QQ",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "144580",
+      "ed": "146840",
+      "nc": "1.0",
+      "onebest": "女声传之梦里面",
+      "si": "43",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.7019",
+          "wordBg": "25",
+          "wordEd": "80",
+          "wordsName": "女声",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7020",
+          "wordBg": "80",
+          "wordEd": "102",
+          "wordsName": "传",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8436",
+          "wordBg": "102",
+          "wordEd": "116",
+          "wordsName": "之",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "116",
+          "wordEd": "142",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "142",
+          "wordEd": "202",
+          "wordsName": "里面",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "148570",
+      "ed": "151780",
+      "nc": "1.0",
+      "onebest": "噼啪噼啪噼啪吧你看",
+      "si": "44",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9995",
+          "wordBg": "24",
+          "wordEd": "98",
+          "wordsName": "噼啪",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9995",
+          "wordBg": "98",
+          "wordEd": "164",
+          "wordsName": "噼啪",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9995",
+          "wordBg": "164",
+          "wordEd": "220",
+          "wordsName": "噼啪",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8930",
+          "wordBg": "220",
+          "wordEd": "268",
+          "wordsName": "吧",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "268",
+          "wordEd": "278",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "278",
+          "wordEd": "298",
+          "wordsName": "看",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "151960",
+      "ed": "155280",
+      "nc": "1.0",
+      "onebest": "好多吃的掉下来了，其实是在下雨，",
+      "si": "45",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "9",
+          "wordEd": "58",
+          "wordsName": "好多",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "58",
+          "wordEd": "89",
+          "wordsName": "吃",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9994",
+          "wordBg": "89",
+          "wordEd": "98",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "98",
+          "wordEd": "120",
+          "wordsName": "掉",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "120",
+          "wordEd": "150",
+          "wordsName": "下来",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9828",
+          "wordBg": "150",
+          "wordEd": "181",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "181",
+          "wordEd": "181",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "181",
+          "wordEd": "214",
+          "wordsName": "其实",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "214",
+          "wordEd": "224",
+          "wordsName": "是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "224",
+          "wordEd": "238",
+          "wordsName": "在",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "238",
+          "wordEd": "310",
+          "wordsName": "下雨",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "310",
+          "wordEd": "310",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "155940",
+      "ed": "157760",
+      "nc": "1.0",
+      "onebest": "大家都会做梦，",
+      "si": "46",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "25",
+          "wordEd": "68",
+          "wordsName": "大家",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "108",
+          "wordsName": "都会",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "108",
+          "wordEd": "167",
+          "wordsName": "做梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "167",
+          "wordEd": "167",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "157770",
+      "ed": "160470",
+      "nc": "1.0",
+      "onebest": "对梦的看法呀却不一样，",
+      "si": "47",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.5767",
+          "wordBg": "19",
+          "wordEd": "40",
+          "wordsName": "对",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9995",
+          "wordBg": "40",
+          "wordEd": "58",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "58",
+          "wordEd": "68",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "112",
+          "wordsName": "看法",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9888",
+          "wordBg": "112",
+          "wordEd": "147",
+          "wordsName": "呀",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "147",
+          "wordEd": "180",
+          "wordsName": "却",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "180",
+          "wordEd": "200",
+          "wordsName": "不",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "200",
+          "wordEd": "248",
+          "wordsName": "一样",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "248",
+          "wordEd": "248",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "160890",
+      "ed": "163190",
+      "nc": "1.0",
+      "onebest": "弄得遍没大便",
+      "si": "48",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9901",
+          "wordBg": "19",
+          "wordEd": "62",
+          "wordsName": "弄得",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8047",
+          "wordBg": "62",
+          "wordEd": "117",
+          "wordsName": "遍",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9856",
+          "wordBg": "117",
+          "wordEd": "154",
+          "wordsName": "没",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9839",
+          "wordBg": "154",
+          "wordEd": "206",
+          "wordsName": "大便",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "163860",
+      "ed": "165940",
+      "nc": "1.0",
+      "onebest": "嗨，他没草莓，",
+      "si": "49",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.6896",
+          "wordBg": "11",
+          "wordEd": "58",
+          "wordsName": "嗨",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "58",
+          "wordEd": "58",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9254",
+          "wordBg": "58",
+          "wordEd": "82",
+          "wordsName": "他",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9645",
+          "wordBg": "82",
+          "wordEd": "108",
+          "wordsName": "没",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9923",
+          "wordBg": "108",
+          "wordEd": "186",
+          "wordsName": "草莓",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "186",
+          "wordEd": "186",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "166100",
+      "ed": "167580",
+      "nc": "1.0",
+      "onebest": "那乌龟",
+      "si": "50",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "25",
+          "wordEd": "52",
+          "wordsName": "那",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "52",
+          "wordEd": "142",
+          "wordsName": "乌龟",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "167900",
+      "ed": "170340",
+      "nc": "1.0",
+      "onebest": "交了好朋友好运气，",
+      "si": "51",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9063",
+          "wordBg": "11",
+          "wordEd": "46",
+          "wordsName": "交",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.6437",
+          "wordBg": "46",
+          "wordEd": "56",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9986",
+          "wordBg": "56",
+          "wordEd": "68",
+          "wordsName": "好",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "131",
+          "wordsName": "朋友",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "131",
+          "wordEd": "224",
+          "wordsName": "好运气",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "224",
+          "wordEd": "224",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "170520",
+      "ed": "174130",
+      "nc": "1.0",
+      "onebest": "今天肯定又不变变了，真是恶心，",
+      "si": "52",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "23",
+          "wordEd": "72",
+          "wordsName": "今天",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "72",
+          "wordEd": "124",
+          "wordsName": "肯定",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "124",
+          "wordEd": "148",
+          "wordsName": "又",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "148",
+          "wordEd": "166",
+          "wordsName": "不",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7851",
+          "wordBg": "166",
+          "wordEd": "202",
+          "wordsName": "变",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7854",
+          "wordBg": "202",
+          "wordEd": "226",
+          "wordsName": "变",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "226",
+          "wordEd": "253",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "253",
+          "wordEd": "253",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "253",
+          "wordEd": "308",
+          "wordsName": "真是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "308",
+          "wordEd": "356",
+          "wordsName": "恶心",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "356",
+          "wordEd": "356",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "174150",
+      "ed": "174880",
+      "nc": "1.0",
+      "onebest": "是",
+      "si": "53",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9980",
+          "wordBg": "31",
+          "wordEd": "68",
+          "wordsName": "是",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "178260",
+      "ed": "180240",
+      "nc": "1.0",
+      "onebest": "你看梦到大便就说",
+      "si": "54",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "21",
+          "wordEd": "40",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9840",
+          "wordBg": "40",
+          "wordEd": "51",
+          "wordsName": "看",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "51",
+          "wordEd": "72",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "72",
+          "wordEd": "82",
+          "wordsName": "到",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "82",
+          "wordEd": "125",
+          "wordsName": "大便",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9847",
+          "wordBg": "125",
+          "wordEd": "138",
+          "wordsName": "就",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9881",
+          "wordBg": "138",
+          "wordEd": "174",
+          "wordsName": "说",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "180970",
+      "ed": "182720",
+      "nc": "1.0",
+      "onebest": "今天肯定是葡萄，",
+      "si": "55",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "11",
+          "wordEd": "46",
+          "wordsName": "今天",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "46",
+          "wordEd": "88",
+          "wordsName": "肯定",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "88",
+          "wordEd": "100",
+          "wordsName": "是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.5097",
+          "wordBg": "100",
+          "wordEd": "152",
+          "wordsName": "葡萄",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "152",
+          "wordEd": "152",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "183410",
+      "ed": "185080",
+      "nc": "1.0",
+      "onebest": "想吃草莓",
+      "si": "56",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "22",
+          "wordEd": "56",
+          "wordsName": "想",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "56",
+          "wordEd": "72",
+          "wordsName": "吃",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "72",
+          "wordEd": "146",
+          "wordsName": "草莓",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "185720",
+      "ed": "188060",
+      "nc": "1.0",
+      "onebest": "真是倒霉，梦到乌龟",
+      "si": "57",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9952",
+          "wordBg": "6",
+          "wordEd": "43",
+          "wordsName": "真是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "43",
+          "wordEd": "126",
+          "wordsName": "倒霉",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "126",
+          "wordEd": "126",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "126",
+          "wordEd": "146",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "146",
+          "wordEd": "160",
+          "wordsName": "到",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "160",
+          "wordEd": "220",
+          "wordsName": "乌龟",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "188080",
+      "ed": "189790",
+      "nc": "1.0",
+      "onebest": "睡觉的好朋友",
+      "si": "58",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.7425",
+          "wordBg": "19",
+          "wordEd": "56",
+          "wordsName": "睡觉",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8709",
+          "wordBg": "56",
+          "wordEd": "66",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "66",
+          "wordEd": "80",
+          "wordsName": "好",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "80",
+          "wordEd": "146",
+          "wordsName": "朋友",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "189840",
+      "ed": "191190",
+      "nc": "1.0",
+      "onebest": "会长寿，",
+      "si": "59",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9875",
+          "wordBg": "27",
+          "wordEd": "44",
+          "wordsName": "会",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "44",
+          "wordEd": "118",
+          "wordsName": "长寿",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "118",
+          "wordEd": "118",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "191530",
+      "ed": "193460",
+      "nc": "1.0",
+      "onebest": "跑步又会不及格，",
+      "si": "60",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "22",
+          "wordEd": "68",
+          "wordsName": "跑步",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "88",
+          "wordsName": "又",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "88",
+          "wordEd": "106",
+          "wordsName": "会",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "106",
+          "wordEd": "122",
+          "wordsName": "不",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "122",
+          "wordEd": "176",
+          "wordsName": "及格",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "176",
+          "wordEd": "176",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "198260",
+      "ed": "200760",
+      "nc": "1.0",
+      "onebest": "哈哈你昨晚做什么梦，",
+      "si": "61",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "3",
+          "wordEd": "80",
+          "wordsName": "哈哈",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "80",
+          "wordEd": "94",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "146",
+          "wordsName": "昨晚",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "146",
+          "wordEd": "168",
+          "wordsName": "做",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "168",
+          "wordEd": "192",
+          "wordsName": "什么",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "192",
+          "wordEd": "226",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "226",
+          "wordEd": "226",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "201480",
+      "ed": "203130",
+      "nc": "1.0",
+      "onebest": "你还记得吗？司机",
+      "si": "62",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "25",
+          "wordEd": "40",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "40",
+          "wordEd": "50",
+          "wordsName": "还",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "50",
+          "wordEd": "74",
+          "wordsName": "记得",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "74",
+          "wordEd": "92",
+          "wordsName": "吗",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "92",
+          "wordEd": "92",
+          "wordsName": "？",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "92",
+          "wordEd": "142",
+          "wordsName": "司机",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "203140",
+      "ed": "204510",
+      "nc": "1.0",
+      "onebest": "我给你这个，",
+      "si": "63",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "13",
+          "wordEd": "46",
+          "wordsName": "我",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.6164",
+          "wordBg": "46",
+          "wordEd": "60",
+          "wordsName": "给",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.6034",
+          "wordBg": "60",
+          "wordEd": "90",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.6014",
+          "wordBg": "90",
+          "wordEd": "114",
+          "wordsName": "这个",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "114",
+          "wordEd": "114",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "204630",
+      "ed": "206550",
+      "nc": "1.0",
+      "onebest": "你昨天晚上有没有做梦啊",
+      "si": "64",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.8484",
+          "wordBg": "19",
+          "wordEd": "37",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "37",
+          "wordEd": "60",
+          "wordsName": "昨天",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "60",
+          "wordEd": "86",
+          "wordsName": "晚上",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "86",
+          "wordEd": "112",
+          "wordsName": "有没有",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "112",
+          "wordEd": "150",
+          "wordsName": "做梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "150",
+          "wordEd": "172",
+          "wordsName": "啊",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "206770",
+      "ed": "211000",
+      "nc": "1.0",
+      "onebest": "了，一天慢，你看连google都会做梦啊",
+      "si": "65",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9988",
+          "wordBg": "15",
+          "wordEd": "72",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "72",
+          "wordEd": "72",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9949",
+          "wordBg": "72",
+          "wordEd": "84",
+          "wordsName": "一",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9946",
+          "wordBg": "84",
+          "wordEd": "102",
+          "wordsName": "天",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9368",
+          "wordBg": "102",
+          "wordEd": "155",
+          "wordsName": "慢",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "155",
+          "wordEd": "155",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "155",
+          "wordEd": "174",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "174",
+          "wordEd": "223",
+          "wordsName": "看",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "223",
+          "wordEd": "264",
+          "wordsName": "连",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9340",
+          "wordBg": "264",
+          "wordEd": "304",
+          "wordsName": "google",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9968",
+          "wordBg": "304",
+          "wordEd": "328",
+          "wordsName": "都会",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "328",
+          "wordEd": "372",
+          "wordsName": "做梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "372",
+          "wordEd": "398",
+          "wordsName": "啊",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "213060",
+      "ed": "214200",
+      "nc": "1.0",
+      "onebest": "睡着了，",
+      "si": "66",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "6",
+          "wordEd": "68",
+          "wordsName": "睡着",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "94",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "94",
+          "wordEd": "94",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "214210",
+      "ed": "215410",
+      "nc": "1.0",
+      "onebest": "动起来",
+      "si": "67",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9617",
+          "wordBg": "25",
+          "wordEd": "56",
+          "wordsName": "动",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "56",
+          "wordEd": "100",
+          "wordsName": "起来",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "216000",
+      "ed": "219310",
+      "nc": "1.0",
+      "onebest": "像轻松跑，不停的跑爆",
+      "si": "68",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.5891",
+          "wordBg": "9",
+          "wordEd": "45",
+          "wordsName": "像",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7860",
+          "wordBg": "45",
+          "wordEd": "78",
+          "wordsName": "轻松",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "78",
+          "wordEd": "112",
+          "wordsName": "跑",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "112",
+          "wordEd": "112",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "112",
+          "wordEd": "156",
+          "wordsName": "不停",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9640",
+          "wordBg": "156",
+          "wordEd": "166",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9991",
+          "wordBg": "166",
+          "wordEd": "234",
+          "wordsName": "跑",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9433",
+          "wordBg": "234",
+          "wordEd": "287",
+          "wordsName": "爆",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "220500",
+      "ed": "223350",
+      "nc": "1.0",
+      "onebest": "到底做什么梦自自己知道了，",
+      "si": "69",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "23",
+          "wordEd": "58",
+          "wordsName": "到底",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9961",
+          "wordBg": "58",
+          "wordEd": "82",
+          "wordsName": "做",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "82",
+          "wordEd": "112",
+          "wordsName": "什么",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "112",
+          "wordEd": "134",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9762",
+          "wordBg": "134",
+          "wordEd": "160",
+          "wordsName": "自",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "160",
+          "wordEd": "194",
+          "wordsName": "自己",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "194",
+          "wordEd": "230",
+          "wordsName": "知道",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "230",
+          "wordEd": "260",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "260",
+          "wordEd": "260",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "224580",
+      "ed": "226940",
+      "nc": "1.0",
+      "onebest": "爷爷昨晚做了什么梦啊",
+      "si": "70",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "17",
+          "wordEd": "76",
+          "wordsName": "爷爷",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "76",
+          "wordEd": "116",
+          "wordsName": "昨晚",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9962",
+          "wordBg": "116",
+          "wordEd": "132",
+          "wordsName": "做",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9883",
+          "wordBg": "132",
+          "wordEd": "143",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "143",
+          "wordEd": "168",
+          "wordsName": "什么",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "168",
+          "wordEd": "192",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "192",
+          "wordEd": "210",
+          "wordsName": "啊",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "227110",
+      "ed": "228160",
+      "nc": "1.0",
+      "onebest": "忘了，",
+      "si": "71",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9999",
+          "wordBg": "23",
+          "wordEd": "68",
+          "wordsName": "忘",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "68",
+          "wordEd": "90",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "90",
+          "wordEd": "90",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "229470",
+      "ed": "231880",
+      "nc": "1.0",
+      "onebest": "就是好梦就是记不住",
+      "si": "72",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "26",
+          "wordEd": "64",
+          "wordsName": "就是",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9940",
+          "wordBg": "64",
+          "wordEd": "94",
+          "wordsName": "好",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "94",
+          "wordEd": "124",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "124",
+          "wordEd": "146",
+          "wordsName": "就是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "146",
+          "wordEd": "172",
+          "wordsName": "记",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "172",
+          "wordEd": "218",
+          "wordsName": "不住",
+          "wp": "n"
+        }
+      ]
+    },
+    {
+      "bg": "232400",
+      "ed": "235220",
+      "nc": "1.0",
+      "onebest": "梦，是不是很难记住这些，",
+      "si": "73",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9981",
+          "wordBg": "26",
+          "wordEd": "50",
+          "wordsName": "梦",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "50",
+          "wordEd": "50",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9984",
+          "wordBg": "50",
+          "wordEd": "74",
+          "wordsName": "是不是",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "74",
+          "wordEd": "120",
+          "wordsName": "很难",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "120",
+          "wordEd": "154",
+          "wordsName": "记住",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.7304",
+          "wordBg": "154",
+          "wordEd": "204",
+          "wordsName": "这些",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "204",
+          "wordEd": "204",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "235230",
+      "ed": "238660",
+      "nc": "1.0",
+      "onebest": "一般一醒，呢你就把梦境忘了，",
+      "si": "74",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.9996",
+          "wordBg": "13",
+          "wordEd": "83",
+          "wordsName": "一般",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8607",
+          "wordBg": "83",
+          "wordEd": "100",
+          "wordsName": "一",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9982",
+          "wordBg": "100",
+          "wordEd": "132",
+          "wordsName": "醒",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "132",
+          "wordEd": "132",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.8594",
+          "wordBg": "132",
+          "wordEd": "148",
+          "wordsName": "呢",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "148",
+          "wordEd": "158",
+          "wordsName": "你",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "158",
+          "wordEd": "172",
+          "wordsName": "就",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "172",
+          "wordEd": "190",
+          "wordsName": "把",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9726",
+          "wordBg": "190",
+          "wordEd": "248",
+          "wordsName": "梦境",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.9998",
+          "wordBg": "248",
+          "wordEd": "296",
+          "wordsName": "忘",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "296",
+          "wordEd": "318",
+          "wordsName": "了",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "318",
+          "wordEd": "318",
+          "wordsName": "，",
+          "wp": "p"
+        }
+      ]
+    },
+    {
+      "bg": "238850",
+      "ed": "241290",
+      "nc": "1.0",
+      "onebest": "赶紧开始。新的一天，吧",
+      "si": "75",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "15",
+          "wordEd": "78",
+          "wordsName": "赶紧",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "78",
+          "wordEd": "112",
+          "wordsName": "开始",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "112",
+          "wordEd": "112",
+          "wordsName": "。",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "112",
+          "wordEd": "132",
+          "wordsName": "新",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "132",
+          "wordEd": "144",
+          "wordsName": "的",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "144",
+          "wordEd": "152",
+          "wordsName": "一",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "152",
+          "wordEd": "178",
+          "wordsName": "天",
+          "wp": "n"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "178",
+          "wordEd": "178",
+          "wordsName": "，",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "1.0000",
+          "wordBg": "178",
+          "wordEd": "222",
+          "wordsName": "吧",
+          "wp": "s"
+        }
+      ]
+    },
+    {
+      "bg": "242940",
+      "ed": "243790",
+      "nc": "1.0",
+      "onebest": "噢。",
+      "si": "76",
+      "speaker": "0",
+      "wordsResultList": [
+        {
+          "alternativeList": [],
+          "wc": "0.7914",
+          "wordBg": "13",
+          "wordEd": "80",
+          "wordsName": "噢",
+          "wp": "s"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "80",
+          "wordEd": "80",
+          "wordsName": "。",
+          "wp": "p"
+        },
+        {
+          "alternativeList": [],
+          "wc": "0.0000",
+          "wordBg": "80",
+          "wordEd": "80",
+          "wordsName": "",
+          "wp": "g"
+        }
+      ]
+    }
+  ]
+}

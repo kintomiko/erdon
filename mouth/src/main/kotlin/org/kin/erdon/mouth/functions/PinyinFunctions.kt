@@ -1,4 +1,4 @@
-package org.kin.erdon.mouth
+package org.kin.erdon.mouth.functions
 
 import com.github.stuxuhai.jpinyin.PinyinFormat
 import com.github.stuxuhai.jpinyin.PinyinHelper

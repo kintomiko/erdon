@@ -1,5 +1,6 @@
-package org.kin.erdon.mouth
+package org.kin.erdon.mouth.configs
 
+import org.kin.erdon.mouth.functions.log
 import java.io.FileInputStream
 import java.nio.file.Files
 import java.nio.file.Paths

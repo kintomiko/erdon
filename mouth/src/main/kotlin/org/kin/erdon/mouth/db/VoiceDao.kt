@@ -1,5 +1,7 @@
-package org.kin.erdon.mouth
+package org.kin.erdon.mouth.db
 
+import org.kin.erdon.mouth.functions.logError
+import org.kin.erdon.mouth.models.*
 import java.io.ByteArrayInputStream
 import java.sql.*
 
@@ -10,7 +12,7 @@ object VoiceDao{
         }
     }
 
-    fun loadClip(name: String): Clip{
+    fun loadClip(name: String): Clip {
         var clip: Clip? = null
         runWithDbConnection(Database.erdon, true) { dbConnection ->
             val ps = dbConnection.prepareStatement(
@@ -23,8 +25,8 @@ object VoiceDao{
 
             ps.setString(1, name)
 
-            execSql(ps){
-                while (it.next()){
+            execSql(ps) {
+                while (it.next()) {
                     clip = Clip(
                             it.getInt(1),
                             it.getString(2),
@@ -37,25 +39,50 @@ object VoiceDao{
         return clip!!
     }
 
-    fun readWord(pronunciation: String, personId: Int): ByteArray{
-        var audio = ByteArray(0)
-        runWithDbConnection(Database.erdon, true){ dbConnection ->
+    fun readWord(pronunciation: String, personId: Int): Voice?{
+        var audio: Voice? = null
+        runWithDbConnection(Database.erdon, true) { dbConnection ->
             val ps = dbConnection.prepareStatement(
                     """
-                        select data
-                         from fragment f
-                         join word w on w.id = f.word_id
-                         where w.pronunciation = ? and f.person_id= ? and f.wc > 0.8
-                         order by f.wc desc
+                        select f.data, f.wc, f.wp,
+                          w.id, w.name, w.pronunciation,
+                          c.id, c.name, c.format,
+                          p.id, p.name, p.sex
+                        from fragment f
+                          join word w on w.id = f.word_id
+                          join clip c on c.id = f.clip_id
+                          join person p on p.id = f.person_id
+                        where w.pronunciation = ? and f.person_id= ? and f.wc > 0.8
+                        order by f.wc desc
                         """
             )
 
             ps.setString(1, pronunciation)
             ps.setInt(2, personId)
 
-            execSql(ps){
-                if (it.next()){
-                    audio = it.getBytes(1)
+            execSql(ps) {
+                if (it.next()) {
+                    audio = Voice(
+                            Clip(
+                                    it.getInt("c.id"),
+                                    it.getString("c.format"),
+                                    it.getString("c.name"),
+                                    null
+                            ),
+                            Person(
+                                    it.getInt("p.id"),
+                                    it.getString("p.name"),
+                                    Sex.valueOf(it.getString("p.sex"))
+                            ),
+                            Word(
+                                    it.getInt("w.id"),
+                                    it.getString("w.name"),
+                                    it.getString("w.pronunciation")
+                            ),
+                            it.getFloat("f.wc"),
+                            it.getString("f.wp"),
+                            it.getBytes("f.data")
+                    )
                 }
             }
         }
@@ -64,7 +91,7 @@ object VoiceDao{
 
     private fun create(fragments: Fragment): Int {
         var newId = -1
-        runWithDbConnection(Database.erdon, true){ dbConnection ->
+        runWithDbConnection(Database.erdon, true) { dbConnection ->
             val ps = dbConnection.prepareStatement(
                     """
                         insert into fragment (clip_id, person_id, word_id, wc, wp, data) values (?, ?, ?, ?, ?, ?)
@@ -133,7 +160,7 @@ object VoiceDao{
 
     fun findWord(wordsName: String): Word? {
         var word: Word? = null
-        runWithDbConnection(Database.erdon, true){ dbConnection ->
+        runWithDbConnection(Database.erdon, true) { dbConnection ->
             val ps = dbConnection.prepareStatement(
                     """
                         select id, name, pronunciation from word
@@ -143,8 +170,8 @@ object VoiceDao{
 
             ps.setString(1, wordsName)
 
-            execSql(ps){
-                if (it.next()){
+            execSql(ps) {
+                if (it.next()) {
                     word = Word(
                             it.getInt(1),
                             it.getString(2),

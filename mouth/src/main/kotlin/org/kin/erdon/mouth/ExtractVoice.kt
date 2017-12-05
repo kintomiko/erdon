@@ -1,39 +1,19 @@
 package org.kin.erdon.mouth
 
-import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
-import com.jayway.jsonpath.Configuration
 import com.jayway.jsonpath.JsonPath
 import com.jayway.jsonpath.TypeRef
+import org.kin.erdon.mouth.configs.JsonFactory
+import org.kin.erdon.mouth.functions.VoiceExtractor
+import org.kin.erdon.mouth.models.Cut
+import org.kin.erdon.mouth.models.CutGroup
+import org.kin.erdon.mouth.models.Person
+import org.kin.erdon.mouth.models.Sex
 import java.io.File
-import javax.sound.sampled.AudioSystem
-import java.util.EnumSet
-import com.jayway.jsonpath.spi.mapper.MappingProvider
-import com.jayway.jsonpath.spi.json.JsonProvider
-import com.jayway.jsonpath.spi.mapper.JacksonMappingProvider
-import com.jayway.jsonpath.spi.json.JacksonJsonProvider
-import com.jayway.jsonpath.Option
 import javax.sound.sampled.AudioInputStream
+import javax.sound.sampled.AudioSystem
 
 
 fun main(args: Array<String>){
-
-    Configuration.setDefaults(object : Configuration.Defaults {
-        private val kotlinObjectMapper = jacksonObjectMapper()
-        private val jsonProvider = JacksonJsonProvider(kotlinObjectMapper)
-        private val mappingProvider = JacksonMappingProvider(kotlinObjectMapper)
-
-        override fun jsonProvider(): JsonProvider {
-            return jsonProvider
-        }
-
-        override fun mappingProvider(): MappingProvider {
-            return mappingProvider
-        }
-
-        override fun options(): Set<Option> {
-            return EnumSet.noneOf(Option::class.java)
-        }
-    })
 
     listOf(
             "/Users/kindai/workspace/erdon/mouth/speech/yuan-mmxlgd",
@@ -79,7 +59,7 @@ class WavReader(path: String) {
 fun parseCutsFromFile(path: String): List<Cut> {
     val json = String(File(path).readBytes())
     val typeRef = object : TypeRef<List<CutGroup>>() {}
-    val sentenceGroups = JsonPath.parse(json).read("\$.result", typeRef)
+    val sentenceGroups = JsonPath.using(JsonFactory.conf).parse(json).read("\$.result", typeRef)
     val cuts = mutableListOf<Cut>()
     sentenceGroups.forEach {
         val start = it.bg

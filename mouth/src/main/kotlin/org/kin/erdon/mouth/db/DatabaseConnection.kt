@@ -1,6 +1,9 @@
-package org.kin.erdon.mouth
+package org.kin.erdon.mouth.db
 
 import com.mchange.v2.c3p0.ComboPooledDataSource
+import org.kin.erdon.mouth.configs.Config
+import org.kin.erdon.mouth.functions.log
+import org.kin.erdon.mouth.functions.logError
 import java.sql.Connection
 import java.sql.SQLException
 
