@@ -7,7 +7,6 @@ import org.kin.erdon.mouth.functions.BaiduApi
 import org.kin.erdon.mouth.functions.WordCut
 import org.kin.erdon.mouth.functions.pinyin
 import javax.sound.sampled.AudioFormat
-import javax.sound.sampled.AudioSystem
 
 fun main(args: Array<String>){
     val sen = """
@@ -19,7 +18,7 @@ fun main(args: Array<String>){
     val buffer = words.mapNotNull {
         println("matching word: $it")
 
-        VoiceDao.readWord(pinyin(it), 1)?.let {
+        VoiceDao.findWord(pinyin(it), 1)?.let {
             println("matched fragment: ${JsonPath.using(JsonFactory.conf).parse(it).jsonString()}")
             it.audio
         }

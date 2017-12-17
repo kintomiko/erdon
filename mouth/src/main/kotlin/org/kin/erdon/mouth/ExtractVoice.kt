@@ -25,8 +25,11 @@ fun main(args: Array<String>){
         println("processing $it.wav")
         val wavReader = WavReader("$it.wav")
         println("processing $it.json")
-        val cuts = parseCutsFromFile("$it.json")
-        VoiceExtractor.extract(SingleExtractRequest(wavReader, cuts, Person(1, "Yuan Lin", Sex.MALE), it))
+//        val cuts = parseCutsFromFile("$it.json")
+//        VoiceExtractor.extract(SingleExtractRequest(wavReader, cuts, Person(1, "Yuan Lin", Sex.MALE), it))
+
+        val groups = parseSentancesFromFile("$it.json")
+        VoiceExtractor.extractToFile(groups, wavReader, "output", it.substring(it.lastIndexOf("/")))
     }
 }
 
@@ -77,4 +80,10 @@ fun parseCutsFromFile(path: String): List<Cut> {
         }
     }
     return cuts
+}
+
+fun parseSentancesFromFile(path: String): List<CutGroup> {
+    val json = String(File(path).readBytes())
+    val typeRef = object : TypeRef<List<CutGroup>>() {}
+    return JsonPath.using(JsonFactory.conf).parse(json).read("\$.result", typeRef)
 }

@@ -7,6 +7,8 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 data class CutGroup(
         val bg: Long,
         val ed: Long,
+        val onebest: String,
+        val nc: Float,
         val wordsResultList: List<Cut>
 )
 
@@ -19,7 +21,7 @@ data class Cut(
         val wp: String
 )
 
-data class Word(
+data class WordDto(
     val id: Int?,
     val name: String,
     val pronunciation: String
@@ -28,7 +30,7 @@ data class Word(
 data class Voice (
         val clip: Clip,
         val person: Person,
-        val word: Word,
+        val word: WordDto,
         val wc: Float,
         val wp: String,
         @JsonIgnore val audio: ByteArray

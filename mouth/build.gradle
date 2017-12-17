@@ -19,6 +19,10 @@ repositories {
     jcenter()
     maven { url "http://www.dcm4che.org/maven2/"}
     maven { url "https://jitpack.io" }
+
+    maven {
+        url  "https://dl.bintray.com/kotlin/exposed"
+    }
 }
 
 dependencies {
@@ -47,6 +51,7 @@ dependencies {
     //database
     compile group: 'mysql', name: 'mysql-connector-java', version:'5.1.29'
     compile group: 'com.mchange', name: 'c3p0', version: '0.9.5'
+    compile 'org.jetbrains.exposed:exposed:0.9.1'
 
     //log
     compile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.6'

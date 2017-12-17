@@ -12,7 +12,7 @@ object VoiceDao{
         }
     }
 
-    fun loadClip(name: String): Clip {
+    fun findClip(name: String): Clip {
         var clip: Clip? = null
         runWithDbConnection(Database.erdon, true) { dbConnection ->
             val ps = dbConnection.prepareStatement(
@@ -39,7 +39,7 @@ object VoiceDao{
         return clip!!
     }
 
-    fun readCount(): Int{
+    fun totalFragment(): Int{
         var count = 0
         runWithDbConnection(Database.erdon, true) { dbConnection ->
             val ps = dbConnection.prepareStatement(
@@ -59,7 +59,7 @@ object VoiceDao{
         return count
     }
 
-    fun readClip(id: Int): Clip?{
+    fun clip(id: Int): Clip?{
 
         var clip: Clip? = null
         runWithDbConnection(Database.erdon, true) { dbConnection ->
@@ -85,7 +85,7 @@ object VoiceDao{
 
     }
 
-    fun read(offset: Int = 0, limit: Int = 10): List<Fragment>{
+    fun fragments(offset: Int = 0, limit: Int = 10): List<Fragment>{
         val voiceList = mutableListOf<Fragment>()
 
         runWithDbConnection(Database.erdon, true) { dbConnection ->
@@ -114,7 +114,7 @@ object VoiceDao{
         return voiceList
     }
 
-    fun readWord(pronunciation: String, personId: Int): Voice?{
+    fun findWord(pronunciation: String, personId: Int): Voice?{
         var audio: Voice? = null
         runWithDbConnection(Database.erdon, true) { dbConnection ->
             val ps = dbConnection.prepareStatement(
@@ -149,7 +149,7 @@ object VoiceDao{
                                     it.getString("p.name"),
                                     Sex.valueOf(it.getString("p.sex"))
                             ),
-                            Word(
+                            WordDto(
                                     it.getInt("w.id"),
                                     it.getString("w.name"),
                                     it.getString("w.pronunciation")
@@ -232,7 +232,7 @@ object VoiceDao{
         return newId
     }
 
-    fun create(word: Word): Int {
+    fun create(word: WordDto): Int {
         var newId = -1
         runWithDbConnection(Database.erdon, true) { dbConnection ->
             val ps = dbConnection.prepareStatement(
@@ -248,8 +248,8 @@ object VoiceDao{
         return newId
     }
 
-    fun findWord(wordsName: String): Word? {
-        var word: Word? = null
+    fun findWord(wordsName: String): WordDto? {
+        var word: WordDto? = null
         runWithDbConnection(Database.erdon, true) { dbConnection ->
             val ps = dbConnection.prepareStatement(
                     """
@@ -262,7 +262,7 @@ object VoiceDao{
 
             execSql(ps) {
                 if (it.next()) {
-                    word = Word(
+                    word = WordDto(
                             it.getInt(1),
                             it.getString(2),
                             it.getString(3)

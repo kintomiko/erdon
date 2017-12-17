@@ -9,8 +9,8 @@ import javax.sound.sampled.AudioSystem
 
 fun main(args: Array<String>){
 
-    for(i in 0..VoiceDao.readCount() step 10){
-        VoiceDao.read(i, 10).forEach {
+    for(i in 0..VoiceDao.totalFragment() step 10){
+        VoiceDao.fragments(i, 10).forEach {
             println("converting fragment id: ${it.id}")
             val newData = convertTo16K(it)
             VoiceDao.updateFragmentData(newData, it.id!!)
@@ -20,7 +20,7 @@ fun main(args: Array<String>){
 }
 
 fun convertTo16K(fragment: Fragment): ByteArray {
-    val clip = VoiceDao.readClip(fragment.clipId)!!
+    val clip = VoiceDao.clip(fragment.clipId)!!
     val origin = AudioInputStream(ByteArrayInputStream(fragment.audio), toAudioFormat(clip.format), fragment.audio.size.toLong())
     val newFormatInputStream = AudioSystem.getAudioInputStream(baiduFormat, origin)
     val buffer = ByteArray((origin.frameLength.toInt() * newFormatInputStream.format.frameRate / origin.format.frameRate * newFormatInputStream.format.frameSize).toInt())
