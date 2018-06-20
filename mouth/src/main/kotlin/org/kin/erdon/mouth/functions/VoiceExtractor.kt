@@ -1,5 +1,6 @@
 package org.kin.erdon.mouth.functions
 
+import com.google.common.base.CharMatcher
 import org.kin.erdon.mouth.models.Clip
 import org.kin.erdon.mouth.models.Fragment
 import org.kin.erdon.mouth.SingleExtractRequest
@@ -7,7 +8,6 @@ import org.kin.erdon.mouth.WavReader
 import org.kin.erdon.mouth.models.WordDto
 import org.kin.erdon.mouth.db.VoiceDao
 import org.kin.erdon.mouth.models.CutGroup
-import org.kin.erdon.mouth.toAudioFormat
 import java.io.ByteArrayInputStream
 import java.io.File
 import javax.sound.sampled.AudioFileFormat
@@ -34,7 +34,9 @@ object VoiceExtractor {
 
         sentences.forEach {
             val data = reader.loadWord(it.bg, it.ed)
-            val pronunciation = pinyin(it.onebest).replace(",", "_")
+            val pronunciation = CharMatcher.ascii().negate()
+                    .replaceFrom(pinyin(it.onebest), "_")
+                    .replace(",", "_")
             val origin = AudioInputStream(ByteArrayInputStream(data), reader.format(), data.size.toLong())
             val path = "$subFolder/$pronunciation.wav"
             val outFile = File("$exportFolder/$path")
